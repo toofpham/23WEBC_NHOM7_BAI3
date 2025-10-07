@@ -1,0 +1,99 @@
+﻿@model System.Data.DataRow
+
+@{
+    Layout = "_Layout";
+    ViewBag.PageName = "ProductDetails";
+}
+
+<div id="templatemo_main_wrapper">
+    <div id="templatemo_main">
+        <div id="sidebar" class="left">
+            <div class="sidebar_box">
+                <span class="bottom"></span>
+                <h3>Categories</h3>
+                <div class="content">
+                    <ul class="sidebar_list">
+                        <li><a href="#">Nulla odio ipsum</a></li>
+                        <li><a href="#">Suspendisse posuere</a></li>
+                        <li><a href="#">Aliquam euismod</a></li>
+                        <li><a href="#">Curabitur ac mauris</a></li>
+                        <li><a href="#">Mauris nulla tortor</a></li>
+                        <li><a href="#">Nullam ultrices</a></li>
+                        <li><a href="#">Vivamus scelerisque</a></li>
+                        <li><a href="#">Suspendisse posuere</a></li>
+                        <li><a href="#">Quisque vel justo</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="sidebar_box">
+                <span class="bottom"></span>
+                <h3>Weekly Special</h3>
+                <div class="content special">
+                    <img src="images/templatemo_image_01.jpg" alt="Flowers" />
+                    <a href="#">Citrus Burst Bouquet</a>
+                    <p>
+                        Price:
+                        <span class="price normal_price">$160</span>&nbsp;&nbsp;
+                        <span class="price special_price">$100</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div id="content" class="right">
+            <h2>Product Detail</h2>
+            @if (Model != null)
+            {
+                var imagePath = "~/images/product/default.jpg"; // Giá trị mặc định
+                if (Model["Hinh"] != DBNull.Value)
+                {
+                    var hinhValue = Model["Hinh"]?.ToString();
+                    imagePath = string.IsNullOrEmpty(hinhValue) ? "~/images/product/default.jpg" : hinhValue;
+                }
+
+                var price = Model["GiaKM"]?.ToString() ?? Model["Gia"]?.ToString() ?? "0";
+                <div class="content_half left">
+                    <a rel="lightbox" href="@Url.Content(imagePath.Replace("jpg", "jpg_l"))" title="@(Model["TenSP"]?.ToString() ?? "Sản phẩm không tên")">
+                        <img src="@Url.Content(imagePath)" alt="@(Model["TenSP"]?.ToString() ?? "Sản phẩm không tên")" onError="this.onerror=null; this.src='@Url.Content("~/images/product/default.jpg")';" />
+                    </a>
+                </div>
+                <div class="content_half right">
+                    <table>
+                        <tr>
+                            <td width="130">Price:</td>
+                            <td width="84">$@price</td>
+                        </tr>
+                        <tr>
+                            <td>Availability:</td>
+                            <td><strong>In Stock</strong></td>
+                        </tr>
+                        <tr>
+                            <td>Quantity</td>
+                            <td>
+                                <input type="text" value="1" size="6" maxlength="2" />
+                            </td>
+                        </tr>
+                    </table>
+                    <div class="cleaner h20"></div>
+                    <a href="@Url.Action("AddToCart", "ShoppingCart", new { id = Model["MaSP"] })" class="button">Add to Cart</a>
+                </div>
+                <div class="cleaner h40"></div>
+
+                <h4>Product Description</h4>
+                <p>
+                    @(Model["MoTa"]?.ToString() ?? "Chưa có mô tả")
+                </p>
+                <div class="cleaner h40"></div>
+                <div class="blank_box">
+                    <a href="#"><img src="images/free_shipping.jpg" alt="Free Shipping" /></a>
+                </div>
+            }
+            else
+            {
+                <p>Sản phẩm không tồn tại.</p>
+            }
+            <div class="cleaner"></div>
+        </div>
+        <div class="cleaner"></div>
+    </div>
+</div>

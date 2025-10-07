@@ -1,0 +1,77 @@
+﻿@model System.Data.DataTable
+
+@{
+    ViewBag.PageName = "Products";
+}
+
+<div id="templatemo_main_wrapper">
+    <div id="templatemo_main">
+        <div id="sidebar" class="left">
+            <div class="sidebar_box">
+                <span class="bottom"></span>
+                <h3>Categories</h3>
+                <div class="content">
+                    <ul class="sidebar_list">
+                        <li><a href="#">Nulla odio ipsum</a></li>
+                        <li><a href="#">Suspendisse posuere</a></li>
+                        <li><a href="#">Aliquam euismod</a></li>
+                        <li><a href="#">Curabitur ac mauris</a></li>
+                        <li><a href="#">Mauris nulla tortor</a></li>
+                        <li><a href="#">Nullam ultrices</a></li>
+                        <li><a href="#">Vivamus scelerisque</a></li>
+                        <li><a href="#">Suspendisse posuere</a></li>
+                        <li><a href="#">Quisque vel justo</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="sidebar_box">
+                <span class="bottom"></span>
+                <h3>Weekly Special</h3>
+                <div class="content special">
+                    <img src="images/templatemo_image_01.jpg" alt="Flowers" />
+                    <a href="#">Citrus Burst Bouquet</a>
+                    <p>
+                        Price:
+                        <span class="price normal_price">$160</span>&nbsp;&nbsp;
+                        <span class="price special_price">$100</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div id="content" class="right">
+            <h2>Products</h2>
+            <p>Cras aliquam, mi nec imperdiet volutpat, ligula est consequat odio, eu auctor urna augue eu quam.</p>
+
+            @if (Model != null && Model.Rows.Count > 0)
+            {
+                int productCount = 0;
+                foreach (System.Data.DataRow row in Model.Rows)
+                {
+                    <div class="product_box @(productCount % 4 == 3 ? "no_margin_right" : "")">
+                        <a href="@Url.Action("Details", new { id = row["MaSP"] })">
+                            <img src="@Url.Content((row["Hinh"] is string hinh && !string.IsNullOrEmpty(hinh) ? hinh : "~/images/product/default.jpg"))" alt="@row["TenSP"]" onError="this.src='@Url.Content("~/images/product/default.jpg")';" />
+                        </a>
+                        <h3>@row["TenSP"]</h3>
+                        <p class="product_price">@($"${row["GiaKM"] ?? row["Gia"]}")</p>
+                        <p class="add_to_cart">
+                            <a href="@Url.Action("Details", new { id = row["MaSP"] })">Detail</a>
+                            <a href="@Url.Action("AddToCart", "ShoppingCart", new { id = row["MaSP"] })">Add to Cart</a>
+                        </p>
+                    </div>
+                    productCount++;
+                    if (productCount % 4 == 0)
+                    {
+                        <div class="cleaner"></div>
+                    }
+                }
+            }
+            else
+            {
+                <p>Không có sản phẩm nào để hiển thị.</p>
+            }
+            <!-- Phần còn lại giữ nguyên -->
+        </div>
+        <div class="cleaner"></div>
+    </div>
+</div>

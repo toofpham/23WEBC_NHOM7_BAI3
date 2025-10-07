@@ -1,0 +1,29 @@
+﻿@model TachLayout.Models.WebSetting
+@section Title { WebSetting }
+
+
+<h2>THÔNG TIN WEBSITE</h2>
+<table class="table">
+    <tr>
+        <th>Tên site</th>
+        <td>@Model.TenSite</td>
+    </tr>
+    <tr>
+        <th>Logo</th>
+        <td><img src="@Model.Logo" width="120" /></td>
+    </tr>
+    <tr>
+        <th>Địa chỉ</th>
+        <td>@Model.DiaChi</td>
+    </tr>
+    <tr>
+        <th>Hotline</th>
+        <td>@Model.HotLine</td>
+    </tr>
+    <tr>
+        <th>Email</th>
+        <td>@Model.Email</td>
+    </tr>
+</table>
+
+<a asp-action="EditWebSetting" class="btn btn-primary">Chỉnh sửa</a>

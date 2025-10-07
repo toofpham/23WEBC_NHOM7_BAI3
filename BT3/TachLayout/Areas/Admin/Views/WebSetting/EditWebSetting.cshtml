@@ -1,0 +1,37 @@
+﻿@model TachLayout.Models.WebSetting
+@{
+    ViewData["Title"] = "Chỉnh sửa WebSetting";
+}
+@section Title { WebSetting }
+
+<h2>Chỉnh sửa thông tin Website</h2>
+
+<form asp-action="EditWebSetting" method="post">
+    <div class="form-group">
+        <label>Tên site</label>
+        <input asp-for="TenSite" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Logo (URL)</label>
+        <input asp-for="Logo" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Địa chỉ</label>
+        <input asp-for="DiaChi" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Hotline</label>
+        <input asp-for="HotLine" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Email</label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-success">Lưu thay đổi</button>
+    <a asp-action="WebSetting" class="btn btn-secondary">Hủy</a>
+</form>

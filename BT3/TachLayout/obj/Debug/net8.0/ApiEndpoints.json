@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "TachLayout.Areas.API.Controllers.ApiController",
+    "Method": "GetHello",
+    "RelativePath": "api/hello",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
