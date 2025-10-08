@@ -48,14 +48,22 @@
                 int productCount = 0;
                 foreach (System.Data.DataRow row in Model.Rows)
                 {
+                    var imagePath = "~/images/product/default.jpg";
+                    if (row["Hinh"] != DBNull.Value)
+                    {
+                        var hinhValue = row["Hinh"]?.ToString();
+                        imagePath = string.IsNullOrEmpty(hinhValue) ? "~/images/product/default.jpg" : hinhValue;
+                    }
+
+                    var price = row["GiaKM"]?.ToString() ?? row["Gia"]?.ToString() ?? "0";
                     <div class="product_box @(productCount % 4 == 3 ? "no_margin_right" : "")">
-                        <a href="@Url.Action("Details", new { id = row["MaSP"] })">
-                            <img src="@Url.Content((row["Hinh"] is string hinh && !string.IsNullOrEmpty(hinh) ? hinh : "~/images/product/default.jpg"))" alt="@row["TenSP"]" onError="this.src='@Url.Content("~/images/product/default.jpg")';" />
+                        <a href="@Url.Action("Details", "Product", new { id = row["MaSP"] })">
+                            <img src="@Url.Content(imagePath)" alt="@(row["TenSP"]?.ToString() ?? "Sản phẩm không tên")" onError="this.onerror=null; this.src='@Url.Content("~/images/product/default.jpg")';" />
                         </a>
-                        <h3>@row["TenSP"]</h3>
-                        <p class="product_price">@($"${row["GiaKM"] ?? row["Gia"]}")</p>
+                        <h3>@(row["TenSP"]?.ToString() ?? "Sản phẩm không tên")</h3>
+                        <p class="product_price">$@price</p>
                         <p class="add_to_cart">
-                            <a href="@Url.Action("Details", new { id = row["MaSP"] })">Detail</a>
+                            <a href="@Url.Action("Details", "Product", new { id = row["MaSP"] })">Detail</a>
                             <a href="@Url.Action("AddToCart", "ShoppingCart", new { id = row["MaSP"] })">Add to Cart</a>
                         </p>
                     </div>

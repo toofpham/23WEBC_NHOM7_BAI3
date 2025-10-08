@@ -1,9 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Data.SqlClient;
+using Microsoft.Extensions.Configuration;
 using System.Data;
 using System.Diagnostics;
 using TachLayout.Models;
 using TachLayout.Services;
-using Microsoft.Data.SqlClient;
 
 namespace TachLayout.Controllers
 {
@@ -12,11 +13,13 @@ namespace TachLayout.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private readonly DbService _db;
+        private readonly IConfiguration _configuration; 
 
-        public HomeController(ILogger<HomeController> logger, DbService db)
+        public HomeController(ILogger<HomeController> logger, DbService db, IConfiguration configuration)
         {
             _logger = logger;
             _db = db;
+            _configuration = configuration; 
         }
 
         [HttpGet("")]
@@ -24,6 +27,7 @@ namespace TachLayout.Controllers
         {
             ViewData["Title"] = "Trang chủ";
             ViewData["PageName"] = "Home";
+
             try
             {
                 string sql = "SELECT * FROM SanPham";
@@ -40,40 +44,38 @@ namespace TachLayout.Controllers
                 Console.WriteLine($"Lỗi chung: {ex.Message}");
                 return View("Error", new { Message = "Có lỗi không xác định. Vui lòng liên hệ hỗ trợ." });
             }
-
         }
 
-        [HttpGet("about")]
+        [HttpGet("search")]
+        public IActionResult Search(string keyword)
+        {
+            if (string.IsNullOrWhiteSpace(keyword))
+            {
+                TempData["SearchMessage"] = "Vui lòng nhập tên sản phẩm để tìm kiếm.";
+                return RedirectToAction("Index");
+            }
+
+            string connectionString = _configuration.GetConnectionString("DefaultConnection");
+            DataTable dt = new DataTable();
+
+            using (SqlConnection conn = new SqlConnection(connectionString))
+            {
+                conn.Open();
+                string sql = "SELECT * FROM SANPHAM WHERE TenSP LIKE @keyword";
+                SqlCommand cmd = new SqlCommand(sql, conn);
+                cmd.Parameters.AddWithValue("@keyword", "%" + keyword + "%");
+                SqlDataAdapter da = new SqlDataAdapter(cmd);
+                da.Fill(dt);
+            }
+
+            ViewBag.Keyword = keyword;
+            return View("Index", dt);
+        }
         public IActionResult About()
         {
-            ViewData["Title"] = "About";
-            ViewData["PageName"] = "About";
-
             return View();
-        }
+        }   
 
-        [HttpGet("contact")]
-        public IActionResult Contact()
-        {
-            ViewData["Title"] = "Contact";
-            ViewData["PageName"] = "Contact";
 
-            return View();
-        }
-
-        [HttpGet("faqs")]
-        public IActionResult Faqs()
-        {
-            ViewData["Title"] = "Faqs";
-            ViewData["PageName"] = "Faqs";
-
-            return View();
-        }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
     }
 }

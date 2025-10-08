@@ -2086,23 +2086,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\quochung0810\\.nuget\\packages\\": {},
+    "C:\\Users\\nguye\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
+      "projectUniqueName": "E:\\Năm 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
       "projectName": "TachLayout",
-      "projectPath": "D:\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
-      "packagesPath": "C:\\Users\\quochung0810\\.nuget\\packages\\",
-      "outputPath": "D:\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\",
+      "projectPath": "E:\\Năm 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
+      "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+      "outputPath": "E:\\Năm 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\quochung0810\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2159,7 +2159,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

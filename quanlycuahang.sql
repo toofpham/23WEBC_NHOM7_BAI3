@@ -123,3 +123,4 @@ INSERT INTO ChiTietHoaDon (ChiTietID, MaHD, MaSP, SoLuong, DonGia, ThanhTien) VA
 INSERT INTO BinhLuan (BinhLuanID, UserID, MaSP, Content, NgayTao) VALUES
 (1, 3, 1, N'Hoa hồng rất đẹp và tươi', GETDATE()),
 (2, 3, 5, N'Tulip giao hàng nhanh, chất lượng', GETDATE());
+ALTER TABLE SanPham ADD SoLuong INT DEFAULT 0;
