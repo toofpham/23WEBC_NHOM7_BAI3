@@ -53,19 +53,7 @@
             @{
                 var adminName = HttpContextAccessor.HttpContext.Session.GetString("AdminName");
             }
-
-            @if (!string.IsNullOrEmpty(adminName))
-            {
-                <div class="admin-info d-flex align-items-center ms-3" style="gap: 8px;">
-                    <span class="text-primary">
-                        <i class="fa fa-envelope"></i> Xin chào, <strong>@adminName</strong>!
-                    </span>
-                    <a asp-area="Admin" asp-controller="Admin" asp-action="Logout"
-                       class="btn btn-outline-danger btn-sm">Đăng xuất</a>
-                </div>
-            }
-
-        </nav>
+       </nav>
 
 
         <div id="page-wrapper">

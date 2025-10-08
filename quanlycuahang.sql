@@ -124,3 +124,8 @@ INSERT INTO BinhLuan (BinhLuanID, UserID, MaSP, Content, NgayTao) VALUES
 (1, 3, 1, N'Hoa hồng rất đẹp và tươi', GETDATE()),
 (2, 3, 5, N'Tulip giao hàng nhanh, chất lượng', GETDATE());
 ALTER TABLE SanPham ADD SoLuong INT DEFAULT 0;
+
+INSERT INTO WebSetting (WebSettingID, TenSite, Logo, DiaChi, Email, Hotline, DungLuongToiDa, RequestToiDa)
+VALUES 
+(1, N'BT3 Website', N'/uploads/logo.png', N'273 An Dương Vương, Quận 5, TP. Hồ Chí Minh', 
+N'admin@bt3.vn', N'0909000000', 10485760, 1000);

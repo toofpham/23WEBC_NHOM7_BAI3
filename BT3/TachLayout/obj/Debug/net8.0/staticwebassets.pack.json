@@ -1,487 +1,487 @@
 {
   "Files": [
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TachLayout.bundle.scp.css",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TachLayout.bundle.scp.css",
       "PackagePath": "staticwebassets\\TachLayout.6qis28ajly.bundle.scp.css"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\LICENSE",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\LICENSE",
       "PackagePath": "staticwebassets"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\about.html",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\about.html",
       "PackagePath": "staticwebassets\\about.html"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\bower.json",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\bower.json",
       "PackagePath": "staticwebassets\\bower.json"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\checkout.html",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\checkout.html",
       "PackagePath": "staticwebassets\\checkout.html"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\composer.json",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\composer.json",
       "PackagePath": "staticwebassets\\composer.json"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\contact.html",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\contact.html",
       "PackagePath": "staticwebassets\\contact.html"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\css\\ddsmoothmenu.css",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\ddsmoothmenu.css",
       "PackagePath": "staticwebassets\\css\\ddsmoothmenu.css"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\css\\nivo-slider.css",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\nivo-slider.css",
       "PackagePath": "staticwebassets\\css\\nivo-slider.css"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\css\\orman.css",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\orman.css",
       "PackagePath": "staticwebassets\\css\\orman.css"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\css\\slimbox2.css",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\slimbox2.css",
       "PackagePath": "staticwebassets\\css\\slimbox2.css"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\dist\\css\\sb-admin-2.css",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\dist\\css\\sb-admin-2.css",
       "PackagePath": "staticwebassets\\dist\\css\\sb-admin-2.css"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\dist\\css\\timeline.css",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\dist\\css\\timeline.css",
       "PackagePath": "staticwebassets\\dist\\css\\timeline.css"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\dist\\js\\sb-admin-2.js",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\dist\\js\\sb-admin-2.js",
       "PackagePath": "staticwebassets\\dist\\js\\sb-admin-2.js"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\faqs.html",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\faqs.html",
       "PackagePath": "staticwebassets\\faqs.html"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\1311260370_paypal-straight.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\1311260370_paypal-straight.png",
       "PackagePath": "staticwebassets\\images\\1311260370_paypal-straight.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\1311260374_mastercard-straight.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\1311260374_mastercard-straight.png",
       "PackagePath": "staticwebassets\\images\\1311260374_mastercard-straight.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\1311260374_visa-straight.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\1311260374_visa-straight.png",
       "PackagePath": "staticwebassets\\images\\1311260374_visa-straight.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\addtocart.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\addtocart.png",
       "PackagePath": "staticwebassets\\images\\addtocart.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\arrows.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\arrows.png",
       "PackagePath": "staticwebassets\\images\\arrows.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\bullets.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\bullets.png",
       "PackagePath": "staticwebassets\\images\\bullets.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\closelabel.gif",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\closelabel.gif",
       "PackagePath": "staticwebassets\\images\\closelabel.gif"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\flagship.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\flagship.jpg",
       "PackagePath": "staticwebassets\\images\\flagship.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\free_shipping.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\free_shipping.jpg",
       "PackagePath": "staticwebassets\\images\\free_shipping.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\loading.gif",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\loading.gif",
       "PackagePath": "staticwebassets\\images\\loading.gif"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\menu_hover.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\menu_hover.png",
       "PackagePath": "staticwebassets\\images\\menu_hover.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\nextlabel.gif",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\nextlabel.gif",
       "PackagePath": "staticwebassets\\images\\nextlabel.gif"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\portfolio\\01.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\01.jpg",
       "PackagePath": "staticwebassets\\images\\portfolio\\01.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\portfolio\\02.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\02.jpg",
       "PackagePath": "staticwebassets\\images\\portfolio\\02.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\portfolio\\03.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\03.jpg",
       "PackagePath": "staticwebassets\\images\\portfolio\\03.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\portfolio\\04.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\04.jpg",
       "PackagePath": "staticwebassets\\images\\portfolio\\04.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\portfolio\\05.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\05.jpg",
       "PackagePath": "staticwebassets\\images\\portfolio\\05.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\prevlabel.gif",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\prevlabel.gif",
       "PackagePath": "staticwebassets\\images\\prevlabel.gif"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\product\\01.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\01.jpg",
       "PackagePath": "staticwebassets\\images\\product\\01.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\product\\01_l.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\01_l.jpg",
       "PackagePath": "staticwebassets\\images\\product\\01_l.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\product\\02.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\02.jpg",
       "PackagePath": "staticwebassets\\images\\product\\02.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\product\\02_l.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\02_l.jpg",
       "PackagePath": "staticwebassets\\images\\product\\02_l.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\product\\03.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\03.jpg",
       "PackagePath": "staticwebassets\\images\\product\\03.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\product\\03_l.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\03_l.jpg",
       "PackagePath": "staticwebassets\\images\\product\\03_l.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\product\\04.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\04.jpg",
       "PackagePath": "staticwebassets\\images\\product\\04.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\product\\04_l.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\04_l.jpg",
       "PackagePath": "staticwebassets\\images\\product\\04_l.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\product\\05.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\05.jpg",
       "PackagePath": "staticwebassets\\images\\product\\05.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\product\\05_l.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\05_l.jpg",
       "PackagePath": "staticwebassets\\images\\product\\05_l.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\product\\06.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\06.jpg",
       "PackagePath": "staticwebassets\\images\\product\\06.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\product\\06_l.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\06_l.jpg",
       "PackagePath": "staticwebassets\\images\\product\\06_l.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\product\\07.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\07.jpg",
       "PackagePath": "staticwebassets\\images\\product\\07.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\product\\07_l.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\07_l.jpg",
       "PackagePath": "staticwebassets\\images\\product\\07_l.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\product\\08.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\08.jpg",
       "PackagePath": "staticwebassets\\images\\product\\08.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\product\\08_l.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\08_l.jpg",
       "PackagePath": "staticwebassets\\images\\product\\08_l.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\product\\image_01.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\image_01.jpg",
       "PackagePath": "staticwebassets\\images\\product\\image_01.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\product\\image_01_l.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\image_01_l.jpg",
       "PackagePath": "staticwebassets\\images\\product\\image_01_l.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\remove.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\remove.png",
       "PackagePath": "staticwebassets\\images\\remove.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\ribbon.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\ribbon.png",
       "PackagePath": "staticwebassets\\images\\ribbon.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\search_bg.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\search_bg.png",
       "PackagePath": "staticwebassets\\images\\search_bg.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\templatemo_btn.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_btn.png",
       "PackagePath": "staticwebassets\\images\\templatemo_btn.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\templatemo_footer.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_footer.png",
       "PackagePath": "staticwebassets\\images\\templatemo_footer.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\templatemo_h2.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_h2.png",
       "PackagePath": "staticwebassets\\images\\templatemo_h2.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\templatemo_header.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_header.jpg",
       "PackagePath": "staticwebassets\\images\\templatemo_header.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\templatemo_header.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_header.png",
       "PackagePath": "staticwebassets\\images\\templatemo_header.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\templatemo_header_subpage.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_header_subpage.jpg",
       "PackagePath": "staticwebassets\\images\\templatemo_header_subpage.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\templatemo_headerrepeat.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_headerrepeat.jpg",
       "PackagePath": "staticwebassets\\images\\templatemo_headerrepeat.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\templatemo_headerrepeat_subpage.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_headerrepeat_subpage.jpg",
       "PackagePath": "staticwebassets\\images\\templatemo_headerrepeat_subpage.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\templatemo_image_01.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_image_01.jpg",
       "PackagePath": "staticwebassets\\images\\templatemo_image_01.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\templatemo_list.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_list.png",
       "PackagePath": "staticwebassets\\images\\templatemo_list.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\templatemo_logo.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_logo.png",
       "PackagePath": "staticwebassets\\images\\templatemo_logo.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\templatemo_main.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_main.png",
       "PackagePath": "staticwebassets\\images\\templatemo_main.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\templatemo_menu.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_menu.png",
       "PackagePath": "staticwebassets\\images\\templatemo_menu.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\templatemo_sbbg.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_sbbg.png",
       "PackagePath": "staticwebassets\\images\\templatemo_sbbg.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\templatemo_sbbgb.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_sbbgb.png",
       "PackagePath": "staticwebassets\\images\\templatemo_sbbgb.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\templatemo_sbheader.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_sbheader.png",
       "PackagePath": "staticwebassets\\images\\templatemo_sbheader.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\images\\templatemo_sliderbg.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_sliderbg.png",
       "PackagePath": "staticwebassets\\images\\templatemo_sliderbg.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\index.html",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\js\\ddsmoothmenu.js",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\ddsmoothmenu.js",
       "PackagePath": "staticwebassets\\js\\ddsmoothmenu.js"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\js\\flot-data.js",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\flot-data.js",
       "PackagePath": "staticwebassets\\js\\flot-data.js"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\js\\jquery-1.6.1.min.js",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\jquery-1.6.1.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-1.6.1.min.js"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\js\\jquery.min.js",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.min.js"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\js\\jquery.nivo.slider.js",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\jquery.nivo.slider.js",
       "PackagePath": "staticwebassets\\js\\jquery.nivo.slider.js"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\js\\jquery.nivo.slider.pack.js",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\jquery.nivo.slider.pack.js",
       "PackagePath": "staticwebassets\\js\\jquery.nivo.slider.pack.js"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\js\\morris-data.js",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\morris-data.js",
       "PackagePath": "staticwebassets\\js\\morris-data.js"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\js\\slimbox2.js",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\slimbox2.js",
       "PackagePath": "staticwebassets\\js\\slimbox2.js"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\less\\index.html",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\less\\index.html",
       "PackagePath": "staticwebassets\\less\\index.html"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\less\\mixins.less",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\less\\mixins.less",
       "PackagePath": "staticwebassets\\less\\mixins.less"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\less\\sb-admin-2.less",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\less\\sb-admin-2.less",
       "PackagePath": "staticwebassets\\less\\sb-admin-2.less"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\less\\variables.less",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\less\\variables.less",
       "PackagePath": "staticwebassets\\less\\variables.less"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\README",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\README",
       "PackagePath": "staticwebassets\\nivo-slider"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\demo\\demo.html",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\demo.html",
       "PackagePath": "staticwebassets\\nivo-slider\\demo\\demo.html"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\dev7logo.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\dev7logo.png",
       "PackagePath": "staticwebassets\\nivo-slider\\demo\\images\\dev7logo.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\nemo.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\nemo.jpg",
       "PackagePath": "staticwebassets\\nivo-slider\\demo\\images\\nemo.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\toystory.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\toystory.jpg",
       "PackagePath": "staticwebassets\\nivo-slider\\demo\\images\\toystory.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\up.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\up.jpg",
       "PackagePath": "staticwebassets\\nivo-slider\\demo\\images\\up.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\walle.jpg",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\walle.jpg",
       "PackagePath": "staticwebassets\\nivo-slider\\demo\\images\\walle.jpg"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\demo\\scripts\\jquery-1.6.1.min.js",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\scripts\\jquery-1.6.1.min.js",
       "PackagePath": "staticwebassets\\nivo-slider\\demo\\scripts\\jquery-1.6.1.min.js"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\demo\\style.css",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\style.css",
       "PackagePath": "staticwebassets\\nivo-slider\\demo\\style.css"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\jquery.nivo.slider.js",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\jquery.nivo.slider.js",
       "PackagePath": "staticwebassets\\nivo-slider\\jquery.nivo.slider.js"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\jquery.nivo.slider.pack.js",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\jquery.nivo.slider.pack.js",
       "PackagePath": "staticwebassets\\nivo-slider\\jquery.nivo.slider.pack.js"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\license.txt",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\license.txt",
       "PackagePath": "staticwebassets\\nivo-slider\\license.txt"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\nivo-slider.css",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\nivo-slider.css",
       "PackagePath": "staticwebassets\\nivo-slider\\nivo-slider.css"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\arrows.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\arrows.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\default\\arrows.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\bullets.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\bullets.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\default\\bullets.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\default.css",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\default.css",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\default\\default.css"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\loading.gif",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\loading.gif",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\default\\loading.gif"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\arrows.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\arrows.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\arrows.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\bullets.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\bullets.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\bullets.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\loading.gif",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\loading.gif",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\loading.gif"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\orman.css",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\orman.css",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\orman.css"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\readme.txt",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\readme.txt",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\readme.txt"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\ribbon.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\ribbon.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\ribbon.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\slider.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\slider.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\slider.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\bullets.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\bullets.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\bullets.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\controlnav.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\controlnav.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\controlnav.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\featured.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\featured.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\featured.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\loading.gif",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\loading.gif",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\loading.gif"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\pascal.css",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\pascal.css",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\pascal.css"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\readme.txt",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\readme.txt",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\readme.txt"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\ribbon.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\ribbon.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\ribbon.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\slider.png",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\slider.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\slider.png"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\productdetail.html",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\productdetail.html",
       "PackagePath": "staticwebassets\\productdetail.html"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\products.html",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\products.html",
       "PackagePath": "staticwebassets\\products.html"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\shoppingcart.html",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\shoppingcart.html",
       "PackagePath": "staticwebassets\\shoppingcart.html"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\templatemo_style.css",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\templatemo_style.css",
       "PackagePath": "staticwebassets\\templatemo_style.css"
     },
     {
-      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\TachLayout\\TachLayout\\wwwroot\\test.html",
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\test.html",
       "PackagePath": "staticwebassets\\test.html"
     },
     {

@@ -7,17 +7,13 @@
         @* <li><a asp-controller="checkout" asp-action="index" class="@(ViewBag.PageName=="Checkout"?"selected":"")">Checkout</a></li> *@
         <li><a asp-controller="home" asp-action="contact" class="@(ViewBag.PageName=="Contact"?"selected":"")">Contact</a></li>
         @* <li><a asp-controller="home" asp-action="faqs" class="@(ViewBag.PageName=="Faqs"?"selected":"")">FAQs</a></li> *@
+        @* <li><a asp-area="Admin" asp-controller="Admin" asp-action="Login" class="btn btn-dark">Admin Login</a></li> *@
     </ul>
     <div id="templatemo_search">
         <form action="#" method="get">
             <input type="text" value="Site Search" name="keyword" id="keyword" class="txt_field" />
             <input type="submit" value="" id="searchbutton" class="sub_btn" />
         </form>
-    </div>
-    <div class="text-center mt-4">
-        <a asp-area="Admin" asp-controller="Admin" asp-action="Login" class="btn btn-dark">
-            Đăng nhập Admin
-        </a>
     </div>
 
     <br style="clear: left" />

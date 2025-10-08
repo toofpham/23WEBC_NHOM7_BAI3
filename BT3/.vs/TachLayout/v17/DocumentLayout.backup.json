@@ -1,142 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\",
+  "WorkspaceRootPath": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\views\\shared\\_footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\shared\\_footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\views\\shared\\_headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\shared\\_headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\filters\\adminauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\filters\\adminauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\areas\\api\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\areas\\api\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\models\\websetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\models\\websetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\areas\\admin\\controllers\\websettingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\areas\\admin\\controllers\\websettingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\areas\\admin\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\areas\\admin\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\areas\\admin\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\areas\\admin\\views\\shared\\_navstaticside.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\areas\\admin\\views\\shared\\_navstaticside.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\areas\\admin\\views\\shared\\_navtoplink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\areas\\admin\\views\\shared\\_navtoplink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\areas\\admin\\views\\shared\\_navtoplink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\areas\\admin\\views\\shared\\_navheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\areas\\admin\\views\\shared\\_navheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|e:\\n\u0103m 3\\asp\\bt3\\23webc_nhom7_bai3\\bt3\\tachlayout\\tachlayout.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\tachlayout.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -146,430 +18,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TachLayout\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowDoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T11:25:08.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ShoppingCartController.cs",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Controllers\\ShoppingCartController.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Controllers\\ShoppingCartController.cs",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Controllers\\ShoppingCartController.cs",
-              "RelativeToolTip": "TachLayout\\Controllers\\ShoppingCartController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T16:34:30.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "TachLayout\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T10:21:45.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "TachLayout\\Views\\Product\\Index.cshtml",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "TachLayout\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAACMAAAAAAAAAAAAiwE8AAAANAAAAAAAAAA==",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "TachLayout\\Areas\\Admin\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "TachLayout\\Areas\\Admin\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-05T10:27:37.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_HeaderPartial.cshtml",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Shared\\_HeaderPartial.cshtml",
-              "RelativeDocumentMoniker": "TachLayout\\Views\\Shared\\_HeaderPartial.cshtml",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Shared\\_HeaderPartial.cshtml",
-              "RelativeToolTip": "TachLayout\\Views\\Shared\\_HeaderPartial.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T08:33:22.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_MenuPartial.cshtml",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Shared\\_MenuPartial.cshtml",
-              "RelativeDocumentMoniker": "TachLayout\\Views\\Shared\\_MenuPartial.cshtml",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Shared\\_MenuPartial.cshtml",
-              "RelativeToolTip": "TachLayout\\Views\\Shared\\_MenuPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T08:33:33.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_FooterPartial.cshtml",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Shared\\_FooterPartial.cshtml",
-              "RelativeDocumentMoniker": "TachLayout\\Views\\Shared\\_FooterPartial.cshtml",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Shared\\_FooterPartial.cshtml",
-              "RelativeToolTip": "TachLayout\\Views\\Shared\\_FooterPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T16:16:27.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "TachLayout\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TachLayout\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T05:53:26.997Z",
+              "WhenOpened": "2025-10-08T07:51:30.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Controllers\\CartController.cs",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Controllers\\CartController.cs",
-              "RelativeToolTip": "TachLayout\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T11:25:09.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "TachLayout\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "TachLayout\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-05T11:29:06.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "TachLayout\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "TachLayout\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAB0AAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-05T11:30:03.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Program.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Program.cs",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Program.cs",
-              "RelativeToolTip": "TachLayout\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T06:15:44.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CartItemModel.cs",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Models\\CartItemModel.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Models\\CartItemModel.cs",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Models\\CartItemModel.cs",
-              "RelativeToolTip": "TachLayout\\Models\\CartItemModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T16:24:57.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AdminAuthorizeAttribute.cs",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Filters\\AdminAuthorizeAttribute.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Filters\\AdminAuthorizeAttribute.cs",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Filters\\AdminAuthorizeAttribute.cs",
-              "RelativeToolTip": "TachLayout\\Filters\\AdminAuthorizeAttribute.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T06:17:52.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SessionExtensions.cs",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Extensions\\SessionExtensions.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Extensions\\SessionExtensions.cs",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Extensions\\SessionExtensions.cs",
-              "RelativeToolTip": "TachLayout\\Extensions\\SessionExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T16:33:27.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DbService.cs",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Services\\DbService.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Services\\DbService.cs",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Services\\DbService.cs",
-              "RelativeToolTip": "TachLayout\\Services\\DbService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T10:01:38.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "TachLayout\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "TachLayout\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T08:33:17.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Product\\Details.cshtml",
-              "RelativeDocumentMoniker": "TachLayout\\Views\\Product\\Details.cshtml",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Product\\Details.cshtml",
-              "RelativeToolTip": "TachLayout\\Views\\Product\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-05T10:35:17.029Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Models\\ErrorViewModel.cs",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "TachLayout\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T06:11:21.5Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ApiController.cs",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\API\\Controllers\\ApiController.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Areas\\API\\Controllers\\ApiController.cs",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\API\\Controllers\\ApiController.cs",
-              "RelativeToolTip": "TachLayout\\Areas\\API\\Controllers\\ApiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T05:52:50.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Products.cs",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Models\\Products.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Models\\Products.cs",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Models\\Products.cs",
-              "RelativeToolTip": "TachLayout\\Models\\Products.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T10:36:45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "WebSetting.cs",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Models\\WebSetting.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Models\\WebSetting.cs",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Models\\WebSetting.cs",
-              "RelativeToolTip": "TachLayout\\Models\\WebSetting.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T05:53:01.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\appsettings.json",
-              "RelativeDocumentMoniker": "TachLayout\\appsettings.json",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\appsettings.json",
-              "RelativeToolTip": "TachLayout\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-05T09:42:31.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "_NavStaticSide.cshtml",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Views\\Shared\\_NavStaticSide.cshtml",
-              "RelativeDocumentMoniker": "TachLayout\\Areas\\Admin\\Views\\Shared\\_NavStaticSide.cshtml",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Views\\Shared\\_NavStaticSide.cshtml",
-              "RelativeToolTip": "TachLayout\\Areas\\Admin\\Views\\Shared\\_NavStaticSide.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T08:24:02.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Models\\Admin.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Models\\Admin.cs",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Models\\Admin.cs",
-              "RelativeToolTip": "TachLayout\\Models\\Admin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T06:00:33.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Views\\Admin\\Login.cshtml",
-              "RelativeDocumentMoniker": "TachLayout\\Areas\\Admin\\Views\\Admin\\Login.cshtml",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Views\\Admin\\Login.cshtml",
-              "RelativeToolTip": "TachLayout\\Areas\\Admin\\Views\\Admin\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T06:04:08.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "WebSettingController.cs",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Controllers\\WebSettingController.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Areas\\Admin\\Controllers\\WebSettingController.cs",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Controllers\\WebSettingController.cs",
-              "RelativeToolTip": "TachLayout\\Areas\\Admin\\Controllers\\WebSettingController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T09:11:07.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Areas\\Admin\\Controllers\\AdminController.cs",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "TachLayout\\Areas\\Admin\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T05:59:18.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "_LayoutAdmin.cshtml",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeDocumentMoniker": "TachLayout\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeToolTip": "TachLayout\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T08:23:52.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "TachLayout\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "TachLayout\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T08:16:05.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "TachLayout\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "TachLayout\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T08:24:12.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
               "Title": "_NavTopLink.cshtml",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Views\\Shared\\_NavTopLink.cshtml",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Views\\Shared\\_NavTopLink.cshtml",
               "RelativeDocumentMoniker": "TachLayout\\Areas\\Admin\\Views\\Shared\\_NavTopLink.cshtml",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Views\\Shared\\_NavTopLink.cshtml",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Views\\Shared\\_NavTopLink.cshtml",
               "RelativeToolTip": "TachLayout\\Areas\\Admin\\Views\\Shared\\_NavTopLink.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAwMgAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T08:24:04.171Z"
+              "WhenOpened": "2025-10-08T07:31:01.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1024,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "_NavHeader.cshtml",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Views\\Shared\\_NavHeader.cshtml",
-              "RelativeDocumentMoniker": "TachLayout\\Areas\\Admin\\Views\\Shared\\_NavHeader.cshtml",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Views\\Shared\\_NavHeader.cshtml",
-              "RelativeToolTip": "TachLayout\\Areas\\Admin\\Views\\Shared\\_NavHeader.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T08:23:58.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "TachLayout.csproj",
-              "DocumentMoniker": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
-              "RelativeDocumentMoniker": "TachLayout\\TachLayout.csproj",
-              "ToolTip": "E:\\N\u0103m 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
-              "RelativeToolTip": "TachLayout\\TachLayout.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-07T05:51:26.782Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

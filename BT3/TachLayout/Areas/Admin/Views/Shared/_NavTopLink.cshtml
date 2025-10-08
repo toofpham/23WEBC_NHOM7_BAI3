@@ -194,14 +194,33 @@
                         <i class="fa fa-user fa-fw"></i>  <i class="fa fa-caret-down"></i>
                     </a>
                     <ul class="dropdown-menu dropdown-user">
-                        <li><a href="#"><i class="fa fa-user fa-fw"></i> User Profile</a>
-                        </li>
-                        <li><a href="#"><i class="fa fa-gear fa-fw"></i> Settings</a>
-                        </li>
-                        <li class="divider"></li>
-                        <li><a href="login.html"><i class="fa fa-sign-out fa-fw"></i> Logout</a>
-                        </li>
+                            @if (Context.Session.GetString("AdminName") != null)
+                            {
+                                <li>
+                                    <a href="#">
+                                        <i class="fa fa-user fa-fw"></i>
+                                        <span class="text-primary">
+                                            Xin chào, <strong>@Context.Session.GetString("AdminName")</strong>!
+                                        </span>
+                                    </a>
+                                </li>
+                                <li><a href="#"><i class="fa fa-gear fa-fw"></i> Settings</a></li>
+                                <li class="divider"></li>
+                                <li>
+                                    <a asp-area="Admin" asp-controller="Admin" asp-action="Logout"
+                                       class="btn btn-outline-danger btn-sm">Đăng xuất</a>
+                                </li>
+                            }
+                            else
+                            {
+                                <li>
+                                    <a asp-area="Admin" asp-controller="Admin" asp-action="Login">
+                                        <i class="fa fa-sign-in fa-fw"></i> Đăng nhập
+                                    </a>
+                                </li>
+                            }
                     </ul>
+
                     <!-- /.dropdown-user -->
                 </li>
                 <!-- /.dropdown -->

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Năm 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj": {}
+    "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj": {}
   },
   "projects": {
-    "E:\\Năm 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj": {
+    "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Năm 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
+        "projectUniqueName": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
         "projectName": "TachLayout",
-        "projectPath": "E:\\Năm 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
-        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "E:\\Năm 3\\ASP\\BT3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\",
+        "projectPath": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
+        "packagesPath": "C:\\Users\\nhatl\\.nuget\\packages\\",
+        "outputPath": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nhatl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

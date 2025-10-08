@@ -1,5 +1,4 @@
 ﻿@{
-    // Lấy dữ liệu WebSetting từ ViewBag
     var websetting = ViewBag.WebSetting as TachLayout.Models.WebSetting;
 }
 
@@ -19,33 +18,24 @@
 
         <div class="footer_right">
             <p>
-                <a href="/">Home</a> |
-                <a href="/products">Products</a> |
-                <a href="/about">About</a> |
-                <a href="/faqs">FAQs</a> |
-                <a href="/checkout">Checkout</a> |
-                <a href="/contact">Contact</a>
+                <a href="index.html">Home</a> |
+                <a href="products.html">Products</a> |
+                <a href="about.html">About</a> |
+                <a href="faqs.html">FAQs</a> |
+                <a href="checkout.html">Checkout</a> |
+                <a href="contact.html">Contact</a>
             </p>
             <p>
                 Copyright © @DateTime.Now.Year
-                <a href="#">@(websetting?.TenSite ?? "Tên website")</a>
+                <a href="#">@Model.TenSite</a>
             </p>
 
-            <!-- Thông tin WebSetting -->
-            @if (websetting != null)
-            {
-                <div style="margin-top:10px; font-size:14px; color:#ddd;">
-                    <p><strong>Địa chỉ:</strong> @websetting.DiaChi</p>
-                    <p><strong>Email:</strong> @websetting.Email</p>
-                    <p><strong>Hotline:</strong> @websetting.HotLine</p>
-                </div>
-            }
-            else
-            {
-                <div style="margin-top:10px; font-size:14px; color:#ddd;">
-                    <p><em>Chưa có thông tin website</em></p>
-                </div>
-            }
+            <!-- 🔹 Thêm các dòng hiển thị WebSetting -->
+            <div style="margin-top:10px; font-size:14px; color:#ddd;">
+                <p><strong>Địa chỉ:</strong> @Model.DiaChi</p>
+                <p><strong>Email:</strong> @Model.Email</p>
+                <p><strong>Hotline:</strong> @Model.HotLine</p>
+            </div>
         </div>
 
         <div class="cleaner"></div>

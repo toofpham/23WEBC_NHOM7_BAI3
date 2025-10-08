@@ -7,7 +7,7 @@
         public decimal Gia { get; set; }
         public decimal GiaKM { get; set; }
         public int SoLuong { get; set; }
-        public string Hinh { get; set; }
+        public string Hinh { get; set; } = string.Empty;
 
         public decimal ThanhTien
         {

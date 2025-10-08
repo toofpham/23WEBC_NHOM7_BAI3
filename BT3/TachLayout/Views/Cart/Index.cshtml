@@ -68,7 +68,7 @@
                             <td align="right">@item.Gia.ToString("N0") ₫</td>
                             <td align="right">@item.ThanhTien.ToString("N0") ₫</td>
                             <td align="center">
-                                <a href="@Url.Action("Remove", "Cart", new { id = item.MaSP })" class="button">Xóa</a>
+                                <a href="@Url.Action("Remove", "Cart", new { id = item.MaSP })"><img src="images/remove.png" alt="remove" /><br />Remove </a>
                             </td>
                         </tr>
                     }

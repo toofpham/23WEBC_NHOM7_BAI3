@@ -71,11 +71,23 @@ namespace TachLayout.Controllers
             ViewBag.Keyword = keyword;
             return View("Index", dt);
         }
+        [HttpGet("about")]
         public IActionResult About()
         {
-            return View();
-        }   
+            ViewData["Title"] = "About";
+            ViewData["PageName"] = "About";
 
+            return View();
+        }
+
+        [HttpGet("contact")]
+        public IActionResult Contact()
+        {
+            ViewData["Title"] = "Contact";
+            ViewData["PageName"] = "Contact";
+
+            return View();
+        }
 
     }
 }
