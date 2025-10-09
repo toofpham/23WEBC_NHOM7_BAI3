@@ -29,6 +29,7 @@ public class AdminController : Controller
     [HttpGet("Login")]
     public IActionResult Login()
     {
+        ViewData["Title"] = "Admin - Đăng nhập";
         return View();
     }
 
@@ -66,7 +67,7 @@ public class AdminController : Controller
             HttpContext.Session.SetString("AdminSession", userNameFromDb);
             HttpContext.Session.SetString("AdminName", userNameFromDb);
 
-            return RedirectToAction("Index", "WebSetting", new { area = "Admin" });
+            return RedirectToAction("Index", "Admin", new { area = "Admin" });
         }
         catch (SqlException ex)
         {

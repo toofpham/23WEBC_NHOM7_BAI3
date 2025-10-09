@@ -89,5 +89,13 @@ namespace TachLayout.Controllers
             return View();
         }
 
+        [HttpGet("testapi")]
+        public IActionResult TestAPI()
+        {
+            ViewData["Title"] = "TestAPI";
+            return View();
+        }
+
+
     }
 }

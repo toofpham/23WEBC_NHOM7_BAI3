@@ -37,6 +37,8 @@ http://www.templatemo.com/preview/templatemo_385_floral_shop
 
     <link rel="stylesheet" type="text/css" href="css/ddsmoothmenu.css" />
 
+    
+
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <script type="text/javascript" src="js/ddsmoothmenu.js">
 
@@ -77,14 +79,14 @@ http://www.templatemo.com/preview/templatemo_385_floral_shop
         @Html.Partial("_HeaderPartial")
 
 
-        <div id="templatemo_main_wrapper">
+        <div id="templatemo_main_wrapper main-content">
             <main role="main" class="pb-3">
                 @RenderBody()
         </main>
         </div>
 
 
-    @await Component.InvokeAsync("WebSetting")
+        @await Component.InvokeAsync("WebSetting")
       
     </div>
   </body>

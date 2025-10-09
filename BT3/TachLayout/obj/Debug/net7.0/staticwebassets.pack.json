@@ -1,488 +1,512 @@
 {
   "Files": [
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TachLayout.bundle.scp.css",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TachLayout.bundle.scp.css",
       "PackagePath": "staticwebassets\\TachLayout.bundle.scp.css"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\LICENSE",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\LICENSE",
       "PackagePath": "staticwebassets"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\about.html",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\about.html",
       "PackagePath": "staticwebassets\\about.html"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\bower.json",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\bower.json",
       "PackagePath": "staticwebassets\\bower.json"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\checkout.html",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\checkout.html",
       "PackagePath": "staticwebassets\\checkout.html"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\composer.json",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\composer.json",
       "PackagePath": "staticwebassets\\composer.json"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\contact.html",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\contact.html",
       "PackagePath": "staticwebassets\\contact.html"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\ddsmoothmenu.css",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\ddsmoothmenu.css",
       "PackagePath": "staticwebassets\\css\\ddsmoothmenu.css"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\nivo-slider.css",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\nivo-slider.css",
       "PackagePath": "staticwebassets\\css\\nivo-slider.css"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\orman.css",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\orman.css",
       "PackagePath": "staticwebassets\\css\\orman.css"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\slimbox2.css",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\slimbox2.css",
       "PackagePath": "staticwebassets\\css\\slimbox2.css"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\dist\\css\\sb-admin-2.css",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\dist\\css\\sb-admin-2.css",
       "PackagePath": "staticwebassets\\dist\\css\\sb-admin-2.css"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\dist\\css\\timeline.css",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\dist\\css\\timeline.css",
       "PackagePath": "staticwebassets\\dist\\css\\timeline.css"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\dist\\js\\sb-admin-2.js",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\dist\\js\\sb-admin-2.js",
       "PackagePath": "staticwebassets\\dist\\js\\sb-admin-2.js"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\faqs.html",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\faqs.html",
       "PackagePath": "staticwebassets\\faqs.html"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\1311260370_paypal-straight.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\1311260370_paypal-straight.png",
       "PackagePath": "staticwebassets\\images\\1311260370_paypal-straight.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\1311260374_mastercard-straight.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\1311260374_mastercard-straight.png",
       "PackagePath": "staticwebassets\\images\\1311260374_mastercard-straight.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\1311260374_visa-straight.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\1311260374_visa-straight.png",
       "PackagePath": "staticwebassets\\images\\1311260374_visa-straight.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\addtocart.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\addtocart.png",
       "PackagePath": "staticwebassets\\images\\addtocart.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\arrows.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\arrows.png",
       "PackagePath": "staticwebassets\\images\\arrows.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\bullets.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\bullets.png",
       "PackagePath": "staticwebassets\\images\\bullets.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\closelabel.gif",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\closelabel.gif",
       "PackagePath": "staticwebassets\\images\\closelabel.gif"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\flagship.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\flagship.jpg",
       "PackagePath": "staticwebassets\\images\\flagship.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\free_shipping.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\free_shipping.jpg",
       "PackagePath": "staticwebassets\\images\\free_shipping.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\loading.gif",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\loading.gif",
       "PackagePath": "staticwebassets\\images\\loading.gif"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\menu_hover.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\menu_hover.png",
       "PackagePath": "staticwebassets\\images\\menu_hover.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\nextlabel.gif",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\nextlabel.gif",
       "PackagePath": "staticwebassets\\images\\nextlabel.gif"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\01.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\01.jpg",
       "PackagePath": "staticwebassets\\images\\portfolio\\01.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\02.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\02.jpg",
       "PackagePath": "staticwebassets\\images\\portfolio\\02.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\03.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\03.jpg",
       "PackagePath": "staticwebassets\\images\\portfolio\\03.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\04.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\04.jpg",
       "PackagePath": "staticwebassets\\images\\portfolio\\04.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\05.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\05.jpg",
       "PackagePath": "staticwebassets\\images\\portfolio\\05.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\prevlabel.gif",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\prevlabel.gif",
       "PackagePath": "staticwebassets\\images\\prevlabel.gif"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\01.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\01.jpg",
       "PackagePath": "staticwebassets\\images\\product\\01.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\01_l.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\01_l.jpg",
       "PackagePath": "staticwebassets\\images\\product\\01_l.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\02.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\02.jpg",
       "PackagePath": "staticwebassets\\images\\product\\02.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\02_l.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\02_l.jpg",
       "PackagePath": "staticwebassets\\images\\product\\02_l.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\03.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\03.jpg",
       "PackagePath": "staticwebassets\\images\\product\\03.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\03_l.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\03_l.jpg",
       "PackagePath": "staticwebassets\\images\\product\\03_l.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\04.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\04.jpg",
       "PackagePath": "staticwebassets\\images\\product\\04.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\04_l.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\04_l.jpg",
       "PackagePath": "staticwebassets\\images\\product\\04_l.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\05.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\05.jpg",
       "PackagePath": "staticwebassets\\images\\product\\05.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\05_l.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\05_l.jpg",
       "PackagePath": "staticwebassets\\images\\product\\05_l.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\06.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\06.jpg",
       "PackagePath": "staticwebassets\\images\\product\\06.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\06_l.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\06_l.jpg",
       "PackagePath": "staticwebassets\\images\\product\\06_l.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\07.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\07.jpg",
       "PackagePath": "staticwebassets\\images\\product\\07.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\07_l.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\07_l.jpg",
       "PackagePath": "staticwebassets\\images\\product\\07_l.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\08.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\08.jpg",
       "PackagePath": "staticwebassets\\images\\product\\08.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\08_l.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\08_l.jpg",
       "PackagePath": "staticwebassets\\images\\product\\08_l.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\image_01.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\image_01.jpg",
       "PackagePath": "staticwebassets\\images\\product\\image_01.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\image_01_l.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\image_01_l.jpg",
       "PackagePath": "staticwebassets\\images\\product\\image_01_l.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\remove.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\remove.png",
       "PackagePath": "staticwebassets\\images\\remove.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\ribbon.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\ribbon.png",
       "PackagePath": "staticwebassets\\images\\ribbon.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\search_bg.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\search_bg.png",
       "PackagePath": "staticwebassets\\images\\search_bg.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_btn.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_btn.png",
       "PackagePath": "staticwebassets\\images\\templatemo_btn.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_footer.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_footer.png",
       "PackagePath": "staticwebassets\\images\\templatemo_footer.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_h2.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_h2.png",
       "PackagePath": "staticwebassets\\images\\templatemo_h2.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_header.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_header.jpg",
       "PackagePath": "staticwebassets\\images\\templatemo_header.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_header.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_header.png",
       "PackagePath": "staticwebassets\\images\\templatemo_header.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_header_subpage.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_header_subpage.jpg",
       "PackagePath": "staticwebassets\\images\\templatemo_header_subpage.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_headerrepeat.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_headerrepeat.jpg",
       "PackagePath": "staticwebassets\\images\\templatemo_headerrepeat.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_headerrepeat_subpage.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_headerrepeat_subpage.jpg",
       "PackagePath": "staticwebassets\\images\\templatemo_headerrepeat_subpage.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_image_01.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_image_01.jpg",
       "PackagePath": "staticwebassets\\images\\templatemo_image_01.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_list.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_list.png",
       "PackagePath": "staticwebassets\\images\\templatemo_list.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_logo.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_logo.png",
       "PackagePath": "staticwebassets\\images\\templatemo_logo.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_main.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_main.png",
       "PackagePath": "staticwebassets\\images\\templatemo_main.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_menu.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_menu.png",
       "PackagePath": "staticwebassets\\images\\templatemo_menu.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_sbbg.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_sbbg.png",
       "PackagePath": "staticwebassets\\images\\templatemo_sbbg.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_sbbgb.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_sbbgb.png",
       "PackagePath": "staticwebassets\\images\\templatemo_sbbgb.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_sbheader.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_sbheader.png",
       "PackagePath": "staticwebassets\\images\\templatemo_sbheader.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_sliderbg.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_sliderbg.png",
       "PackagePath": "staticwebassets\\images\\templatemo_sliderbg.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\index.html",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\ddsmoothmenu.js",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\ddsmoothmenu.js",
       "PackagePath": "staticwebassets\\js\\ddsmoothmenu.js"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\flot-data.js",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\flot-data.js",
       "PackagePath": "staticwebassets\\js\\flot-data.js"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\jquery-1.6.1.min.js",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\jquery-1.6.1.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-1.6.1.min.js"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\jquery.min.js",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.min.js"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\jquery.nivo.slider.js",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\jquery.nivo.slider.js",
       "PackagePath": "staticwebassets\\js\\jquery.nivo.slider.js"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\jquery.nivo.slider.pack.js",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\jquery.nivo.slider.pack.js",
       "PackagePath": "staticwebassets\\js\\jquery.nivo.slider.pack.js"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\morris-data.js",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\morris-data.js",
       "PackagePath": "staticwebassets\\js\\morris-data.js"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\slimbox2.js",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\slimbox2.js",
       "PackagePath": "staticwebassets\\js\\slimbox2.js"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\less\\index.html",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\less\\index.html",
       "PackagePath": "staticwebassets\\less\\index.html"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\less\\mixins.less",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\less\\mixins.less",
       "PackagePath": "staticwebassets\\less\\mixins.less"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\less\\sb-admin-2.less",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\less\\sb-admin-2.less",
       "PackagePath": "staticwebassets\\less\\sb-admin-2.less"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\less\\variables.less",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\less\\variables.less",
       "PackagePath": "staticwebassets\\less\\variables.less"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\README",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\README",
       "PackagePath": "staticwebassets\\nivo-slider"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\demo.html",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\demo.html",
       "PackagePath": "staticwebassets\\nivo-slider\\demo\\demo.html"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\dev7logo.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\dev7logo.png",
       "PackagePath": "staticwebassets\\nivo-slider\\demo\\images\\dev7logo.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\nemo.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\nemo.jpg",
       "PackagePath": "staticwebassets\\nivo-slider\\demo\\images\\nemo.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\toystory.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\toystory.jpg",
       "PackagePath": "staticwebassets\\nivo-slider\\demo\\images\\toystory.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\up.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\up.jpg",
       "PackagePath": "staticwebassets\\nivo-slider\\demo\\images\\up.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\walle.jpg",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\walle.jpg",
       "PackagePath": "staticwebassets\\nivo-slider\\demo\\images\\walle.jpg"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\scripts\\jquery-1.6.1.min.js",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\scripts\\jquery-1.6.1.min.js",
       "PackagePath": "staticwebassets\\nivo-slider\\demo\\scripts\\jquery-1.6.1.min.js"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\style.css",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\style.css",
       "PackagePath": "staticwebassets\\nivo-slider\\demo\\style.css"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\jquery.nivo.slider.js",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\jquery.nivo.slider.js",
       "PackagePath": "staticwebassets\\nivo-slider\\jquery.nivo.slider.js"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\jquery.nivo.slider.pack.js",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\jquery.nivo.slider.pack.js",
       "PackagePath": "staticwebassets\\nivo-slider\\jquery.nivo.slider.pack.js"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\license.txt",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\license.txt",
       "PackagePath": "staticwebassets\\nivo-slider\\license.txt"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\nivo-slider.css",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\nivo-slider.css",
       "PackagePath": "staticwebassets\\nivo-slider\\nivo-slider.css"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\arrows.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\arrows.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\default\\arrows.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\bullets.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\bullets.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\default\\bullets.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\default.css",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\default.css",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\default\\default.css"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\loading.gif",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\loading.gif",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\default\\loading.gif"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\arrows.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\arrows.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\arrows.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\bullets.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\bullets.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\bullets.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\loading.gif",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\loading.gif",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\loading.gif"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\orman.css",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\orman.css",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\orman.css"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\readme.txt",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\readme.txt",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\readme.txt"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\ribbon.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\ribbon.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\ribbon.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\slider.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\slider.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\slider.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\bullets.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\bullets.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\bullets.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\controlnav.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\controlnav.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\controlnav.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\featured.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\featured.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\featured.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\loading.gif",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\loading.gif",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\loading.gif"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\pascal.css",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\pascal.css",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\pascal.css"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\readme.txt",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\readme.txt",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\readme.txt"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\ribbon.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\ribbon.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\ribbon.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\slider.png",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\slider.png",
       "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\slider.png"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\productdetail.html",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\productdetail.html",
       "PackagePath": "staticwebassets\\productdetail.html"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\products.html",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\products.html",
       "PackagePath": "staticwebassets\\products.html"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\shoppingcart.html",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\shoppingcart.html",
       "PackagePath": "staticwebassets\\shoppingcart.html"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\templatemo_style.css",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\templatemo_style.css",
       "PackagePath": "staticwebassets\\templatemo_style.css"
     },
     {
-      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\New folder\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\test.html",
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\test.html",
       "PackagePath": "staticwebassets\\test.html"
+    },
+    {
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\3be997b4-d6e7-439a-8b66-6ccafa8028f9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\logo\\3be997b4-d6e7-439a-8b66-6ccafa8028f9.jpg"
+    },
+    {
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\49d74293-61fb-4641-b9a3-672f61d4910a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\logo\\49d74293-61fb-4641-b9a3-672f61d4910a.jpg"
+    },
+    {
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\81fdf53b-9fd0-45ad-ad43-b94bcc96e398.jpg",
+      "PackagePath": "staticwebassets\\uploads\\logo\\81fdf53b-9fd0-45ad-ad43-b94bcc96e398.jpg"
+    },
+    {
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\89f18a66-832d-4abf-bcc3-f15e5e55ea07.jpg",
+      "PackagePath": "staticwebassets\\uploads\\logo\\89f18a66-832d-4abf-bcc3-f15e5e55ea07.jpg"
+    },
+    {
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\9a3b0178-8862-4331-9e15-d213bffab302.jpg",
+      "PackagePath": "staticwebassets\\uploads\\logo\\9a3b0178-8862-4331-9e15-d213bffab302.jpg"
+    },
+    {
+      "Id": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Lam\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\f44cede0-d7eb-4764-b02e-9a025df46e0a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\logo\\f44cede0-d7eb-4764-b02e-9a025df46e0a.jpg"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TachLayout.Microsoft.AspNetCore.StaticWebAssets.props",

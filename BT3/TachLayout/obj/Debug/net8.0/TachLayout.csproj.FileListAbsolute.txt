@@ -163,7 +163,6 @@ D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\bin\Debug\net8.0\runtimes\win\lib\net6.0\Sys
 D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\TachLayout.csproj.AssemblyReference.cache
-D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\rpswa.dswa.cache.json
 D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\TachLayout.GeneratedMSBuildEditorConfig.editorconfig
 D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\TachLayout.AssemblyInfoInputs.cache
 D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\TachLayout.AssemblyInfo.cs
@@ -172,14 +171,10 @@ D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\TachLayout.MvcApplicationPa
 D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\TachLayout.RazorAssemblyInfo.cache
 D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\TachLayout.RazorAssemblyInfo.cs
 D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\TachLayout.sourcelink.json
-D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\rjimswa.dswa.cache.json
-D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
 D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\scopedcss\bundle\TachLayout.styles.css
 D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\scopedcss\projectbundle\TachLayout.bundle.scp.css
 D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\staticwebassets.build.json
-D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\staticwebassets.development.json
 D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
@@ -330,3 +325,9 @@ D:\ckc\nam3hk1\ASPNET core\23WEBC_NHOM7\baitapnhom3\23WEBC_NHOM7_BAI3\BT3\TachLa
 D:\ckc\nam3hk1\ASPNET core\23WEBC_NHOM7\baitapnhom3\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\TachLayout.pdb
 D:\ckc\nam3hk1\ASPNET core\23WEBC_NHOM7\baitapnhom3\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\TachLayout.genruntimeconfig.cache
 D:\ckc\nam3hk1\ASPNET core\23WEBC_NHOM7\baitapnhom3\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\ref\TachLayout.dll
+D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\staticwebassets\msbuild.TachLayout.Microsoft.AspNetCore.StaticWebAssets.props
+D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\staticwebassets\msbuild.TachLayout.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\staticwebassets\msbuild.build.TachLayout.props
+D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TachLayout.props
+D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TachLayout.props
+D:\23WEBC_NHOM7_BAI3\BT3\TachLayout\obj\Debug\net8.0\staticwebassets.pack.json

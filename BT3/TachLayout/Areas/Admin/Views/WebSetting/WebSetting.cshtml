@@ -2,28 +2,48 @@
 @section Title { WebSetting }
 
 
-<h2>THÔNG TIN WEBSITE</h2>
-<table class="table">
-    <tr>
-        <th>Tên site</th>
-        <td>@Model.TenSite</td>
-    </tr>
-    <tr>
-        <th>Logo</th>
-        <td><img src="@Model.Logo" width="120" /></td>
-    </tr>
-    <tr>
-        <th>Địa chỉ</th>
-        <td>@Model.DiaChi</td>
-    </tr>
-    <tr>
-        <th>Hotline</th>
-        <td>@Model.HotLine</td>
-    </tr>
-    <tr>
-        <th>Email</th>
-        <td>@Model.Email</td>
-    </tr>
-</table>
+<div class="container my-4">
+    <div class="card shadow-lg border-0 rounded-4">
+        <div class="card-header bg-primary text-white text-center rounded-top-4 py-3">
+            <h2 class="mb-0 fw-bold">THÔNG TIN WEBSITE</h2>
+        </div>
+        <div class="card-body">
+            <table class="table table-bordered align-middle mb-0">
+                <tbody>
+                    <tr>
+                        <th class="bg-light text-primary w-25">Tên site</th>
+                        <td class="fw-semibold">@Model.TenSite</td>
+                    </tr>
+                    <tr>
+                        <th class="bg-light text-primary">Logo</th>
+                        <td>
+                            <img src="@Model.Logo" alt="Logo" class="img-fluid rounded shadow-sm border" style="max-width: 150px;">
+                        </td>
+                    </tr>
+                    <tr>
+                        <th class="bg-light text-primary">Địa chỉ</th>
+                        <td>@Model.DiaChi</td>
+                    </tr>
+                    <tr>
+                        <th class="bg-light text-primary">Hotline</th>
+                        <td><span class="badge bg-danger fs-6">@Model.HotLine</span></td>
+                    </tr>
+                    <tr>
+                        <th class="bg-light text-primary">Email</th>
+                        <td>
+                            <a href="mailto:@Model.Email" class="text-decoration-none text-dark">
+                                <i class="bi bi-envelope-fill text-primary me-2"></i>@Model.Email
+                            </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="card-footer text-center bg-light">
+            <a asp-action="EditWebSetting" class="btn btn-primary px-4 py-2 rounded-pill shadow-sm">
+                <i class="bi bi-pencil-square me-2" style="margin-top:6px"></i>Chỉnh sửa
+            </a>
+        </div>
+    </div>
+</div>
 
-<a asp-action="EditWebSetting" class="btn btn-primary">Chỉnh sửa</a>

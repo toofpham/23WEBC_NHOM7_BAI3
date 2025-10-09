@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Gọi API bằng Ajax";
+}
+
+<div style="text-align: center; margin-top: 50px;">
+    <h2>Thử gọi API trong Area API</h2>
+    <button id="btnHello" class="btn btn-primary" style="margin-top: 10px;">Gọi API</button>
+    <p id="result" style="margin-top: 15px; color: green; font-weight: bold;"></p>
+</div>
+
+<script>
+    document.getElementById("btnHello").addEventListener("click", function () {
+        fetch("/api/hello")
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById("result").innerText = data;
+            })
+            .catch(err => alert("Lỗi: " + err));
+    });
+</script>
+

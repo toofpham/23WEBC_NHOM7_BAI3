@@ -2,6 +2,7 @@
 using Microsoft.Data.SqlClient;
 using TachLayout.Filters;
 using TachLayout.Models;
+using TachLayout.Services;
 
 namespace TachLayout.Areas.Admin.Controllers
 {
@@ -10,76 +11,54 @@ namespace TachLayout.Areas.Admin.Controllers
     [AdminAuthorize]
     public class WebSettingController : Controller
     {
-        private readonly string connectionString;
+        private readonly WebSettingService _webSettingService;
 
         public WebSettingController(IConfiguration configuration)
         {
-            // ✅ Lấy từ appsettings.json
-            connectionString = configuration.GetConnectionString("QuanLyConn");
-        }
-
-        private WebSetting GetWebSetting()
-        {
-            WebSetting setting = null;
-            using (SqlConnection conn = new SqlConnection(connectionString))
-            {
-                string sql = "SELECT TOP 1 * FROM WebSetting";
-                SqlCommand cmd = new SqlCommand(sql, conn);
-                conn.Open();
-                SqlDataReader reader = cmd.ExecuteReader();
-                if (reader.Read())
-                {
-                    setting = new WebSetting
-                    {
-                        WebSettingID = (int)reader["WebSettingID"],
-                        Logo = reader["Logo"].ToString(),
-                        TenSite = reader["TenSite"].ToString(),
-                        DiaChi = reader["DiaChi"].ToString(),
-                        Email = reader["Email"].ToString(),
-                        HotLine = reader["HotLine"].ToString()
-                    };
-                }
-            }
-            return setting;
+            string connectionString = configuration.GetConnectionString("QuanLyConn");
+            _webSettingService = new WebSettingService(connectionString);
         }
 
         [HttpGet("WebSetting")]
         public IActionResult WebSetting()
         {
             ViewData["Title"] = "Admin - WebSetting";
-            var setting = GetWebSetting();
-
+            var setting = _webSettingService.GetWebSetting();
             return View(setting);
         }
 
-        // ✅ Hiển thị form chỉnh sửa
         [HttpGet("EditWebSetting")]
         public IActionResult EditWebSetting()
         {
-            var setting = GetWebSetting();
+            var setting = _webSettingService.GetWebSetting();
             return View(setting);
         }
 
-        // ✅ Cập nhật dữ liệu
         [HttpPost("EditWebSetting")]
-        public IActionResult EditWebSetting(WebSetting model)
+        public IActionResult EditWebSetting(WebSetting model, IFormFile? LogoFile)
         {
-            using (SqlConnection conn = new SqlConnection(connectionString))
+            if (LogoFile != null && LogoFile.Length > 0)
             {
-                string sql = @"UPDATE WebSetting 
-                               SET Logo = @Logo, TenSite = @TenSite, DiaChi = @DiaChi, Email = @Email, HotLine = @HotLine";
-                SqlCommand cmd = new SqlCommand(sql, conn);
-                cmd.Parameters.AddWithValue("@Logo", model.Logo ?? "");
-                cmd.Parameters.AddWithValue("@TenSite", model.TenSite ?? "");
-                cmd.Parameters.AddWithValue("@DiaChi", model.DiaChi ?? "");
-                cmd.Parameters.AddWithValue("@Email", model.Email ?? "");
-                cmd.Parameters.AddWithValue("@HotLine", model.HotLine ?? "");
+                // Tạo đường dẫn lưu file
+                string uploadsFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "uploads", "logo");
+                if (!Directory.Exists(uploadsFolder))
+                    Directory.CreateDirectory(uploadsFolder);
 
-                conn.Open();
-                cmd.ExecuteNonQuery();
+                // Đặt tên file duy nhất
+                string fileName = Guid.NewGuid().ToString() + Path.GetExtension(LogoFile.FileName);
+                string filePath = Path.Combine(uploadsFolder, fileName);
+
+                // Lưu file vào thư mục wwwroot/uploads/logo
+                using (var stream = new FileStream(filePath, FileMode.Create))
+                {
+                    LogoFile.CopyTo(stream);
+                }
+
+                // Lưu đường dẫn (ví dụ: /uploads/logo/abc.jpg)
+                model.Logo = "/uploads/logo/" + fileName;
             }
 
-            // Quay về trang hiển thị
+            _webSettingService.UpdateWebSetting(model);
             return RedirectToAction("WebSetting");
         }
     }

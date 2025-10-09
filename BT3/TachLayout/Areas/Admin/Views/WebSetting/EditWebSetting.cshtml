@@ -2,19 +2,29 @@
 @{
     ViewData["Title"] = "Chỉnh sửa WebSetting";
 }
-@section Title { WebSetting }
+@section Title {
+ WebSetting
+ }
 
-<h2>Chỉnh sửa thông tin Website</h2>
+@* <h2>Chỉnh sửa thông tin Website</h2>
 
-<form asp-action="EditWebSetting" method="post">
+<form asp-action="EditWebSetting" method="post" enctype="multipart/form-data">
     <div class="form-group">
         <label>Tên site</label>
         <input asp-for="TenSite" class="form-control" />
     </div>
 
     <div class="form-group">
-        <label>Logo (URL)</label>
-        <input asp-for="Logo" class="form-control" />
+        <label>Logo hiện tại</label><br />
+        @if (!string.IsNullOrEmpty(Model.Logo))
+        {
+                <img src="@Model.Logo" alt="Logo" style="max-height:100px;" />
+        }
+    </div>
+
+    <div class="form-group">
+        <label>Tải logo mới (nếu có)</label>
+        <input type="file" name="LogoFile" class="form-control" />
     </div>
 
     <div class="form-group">
@@ -34,4 +44,64 @@
 
     <button type="submit" class="btn btn-success">Lưu thay đổi</button>
     <a asp-action="WebSetting" class="btn btn-secondary">Hủy</a>
-</form>
+</form> *@
+
+<div class="container my-4">
+    <div class="d-flex justify-content-center align-items-center vh-100 bg-light">
+        <div class="card shadow-lg border-0 rounded-4 p-4" style="width: 600px;">
+            <div class="card-body">
+                <h2 class="text-center mb-4 text-primary fw-bold">
+                    <i class="bi bi-gear-fill me-2"></i>Chỉnh sửa thông tin Website
+                </h2>
+
+                <form asp-action="EditWebSetting" method="post" enctype="multipart/form-data">
+                    <div class="mb-3">
+                        <label class="form-label fw-semibold">Tên site</label>
+                        <input asp-for="TenSite" class="form-control" placeholder="Nhập tên website" />
+                    </div>
+
+                    <div class="mb-3 text-center">
+                        <label class="form-label fw-semibold d-block">Logo hiện tại</label>
+                            @if (!string.IsNullOrEmpty(Model.Logo))
+                            {
+                                <img src="@Model.Logo" alt="Logo hiện tại" class="img-thumbnail shadow-sm" style="max-height: 120px; border-radius: 10px;" />
+                            }
+                            else
+                            {
+                                <p class="text-muted fst-italic">Chưa có logo</p>
+                            }
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label fw-semibold">Tải logo mới (nếu có)</label>
+                        <input type="file" name="LogoFile" class="form-control" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label fw-semibold">Địa chỉ</label>
+                        <input asp-for="DiaChi" class="form-control" placeholder="Nhập địa chỉ công ty" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label fw-semibold">Hotline</label>
+                        <input asp-for="HotLine" class="form-control" placeholder="Nhập số điện thoại" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label fw-semibold">Email</label>
+                        <input asp-for="Email" class="form-control" placeholder="Nhập địa chỉ email" />
+                    </div>
+
+                    <div class="d-flex justify-content-between mt-4" style="margin-top:6px">
+                        <a asp-action="WebSetting" class="btn btn-secondary rounded-pill px-4">
+                            <i class="bi bi-x-circle me-2" style="margin-right:4px"></i>Hủy
+                        </a>
+                        <button type="submit" class="btn btn-success rounded-pill px-4">
+                            <i class="bi bi-save2 me-2" style="margin-right:4px"></i>Lưu thay đổi
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+<div style="width:300px;margin:100px auto;">
