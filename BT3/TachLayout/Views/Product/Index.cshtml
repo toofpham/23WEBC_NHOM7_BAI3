@@ -48,17 +48,30 @@
                 int productCount = 0;
                 foreach (System.Data.DataRow row in Model.Rows)
                 {
-                    var imagePath = "~/images/product/default.jpg";
+                    // Lấy đường dẫn hình
+                    string imagePath = "~/images/product/default.jpg"; // mặc định
                     if (row["Hinh"] != DBNull.Value)
                     {
-                        var hinhValue = row["Hinh"]?.ToString();
-                        imagePath = string.IsNullOrEmpty(hinhValue) ? "~/images/product/default.jpg" : hinhValue;
+                        string hinhValue = row["Hinh"].ToString();
+                        if (!string.IsNullOrEmpty(hinhValue))
+                        {
+                            // Nếu hình từ admin nhập là đường dẫn tương đối, kiểm tra
+                            if (hinhValue.StartsWith("/images/") || hinhValue.StartsWith("~"))
+                            {
+                                imagePath = hinhValue;
+                            }
+                            else
+                            {
+                                // Nếu chỉ là tên file, ghép đường dẫn folder product
+                                imagePath = "~/images/product/" + hinhValue;
+                            }
+                        }
                     }
 
                     var price = row["GiaKM"]?.ToString() ?? row["Gia"]?.ToString() ?? "0";
                     <div class="product_box @(productCount % 4 == 3 ? "no_margin_right" : "")">
                         <a href="@Url.Action("Details", "Product", new { id = row["MaSP"] })">
-                            <img src="@Url.Content(imagePath)" alt="@(row["TenSP"]?.ToString() ?? "Sản phẩm không tên")" onError="this.onerror=null; this.src='@Url.Content("~/images/product/default.jpg")';" />
+                            <img src="@Url.Content(imagePath)" width="165" height="165"  alt="@(row["TenSP"]?.ToString() ?? "Sản phẩm không tên")" onError="this.onerror=null; this.src='@Url.Content("~/images/product/default.jpg")';" />
                         </a>
                         <h3>@(row["TenSP"]?.ToString() ?? "Sản phẩm không tên")</h3>
                         <p class="product_price">$@price</p>

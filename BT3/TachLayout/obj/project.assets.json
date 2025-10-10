@@ -2092,11 +2092,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
+      "projectUniqueName": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
       "projectName": "TachLayout",
-      "projectPath": "D:\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
+      "projectPath": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
       "packagesPath": "C:\\Users\\nhatl\\.nuget\\packages\\",
-      "outputPath": "D:\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\",
+      "outputPath": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

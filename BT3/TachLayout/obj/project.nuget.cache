@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cezrjd2OL8E=",
+  "dgSpecHash": "nWPyVKw8zS8=",
   "success": true,
-  "projectFilePath": "D:\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
+  "projectFilePath": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nhatl\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\nhatl\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

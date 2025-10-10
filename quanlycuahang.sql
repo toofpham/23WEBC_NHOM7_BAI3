@@ -19,7 +19,7 @@ CREATE TABLE Tag (
 
 -- Bảng SanPham
 CREATE TABLE SanPham (
-  MaSP INT PRIMARY KEY,
+   MaSP INT IDENTITY(1,1) PRIMARY KEY,
   TenSP NVARCHAR(255),
   Gia DECIMAL(10,2),
   GiaKM DECIMAL(10,2),
@@ -27,6 +27,7 @@ CREATE TABLE SanPham (
   Hinh NVARCHAR(255),
   MoTa NVARCHAR(MAX),
   TagName NVARCHAR(100),
+  SoLuong INT DEFAULT 0
   FOREIGN KEY (MaDanhMuc) REFERENCES DanhMuc(MaDanhMuc)
 );
 
@@ -95,12 +96,12 @@ INSERT INTO DanhMuc (MaDanhMuc, TenDanhMuc, TrangThai) VALUES
 (3, N'Quà tặng', 1);
 
 -- Thêm Sản Phẩm
-INSERT INTO SanPham (MaSP, TenSP, Gia, GiaKM, MaDanhMuc, Hinh, MoTa, TagName) VALUES
-(1, N'Hoa Hồng', 200000, 180000, 1, '/images/product/01.jpg', N'Hoa hồng tượng trưng cho tình yêu và sự lãng mạn', 'love,rose'),
-(2, N'Hoa Cúc', 120000, 100000, 1, '/images/product/02.jpg', N'Hoa cúc mang ý nghĩa trường thọ và sự thanh khiết', 'fresh,flower'),
-(3, N'Hoa Sen', 150000, 130000, 1, '/images/product/03.jpg', N'Hoa sen tượng trưng cho sự thanh cao và thuần khiết', 'lotus'),
-(4, N'Hoa Lan', 250000, 220000, 1, '/images/product/04.jpg', N'Hoa lan sang trọng và quý phái', 'orchid'),
-(5, N'Hoa Tulip', 300000, 270000, 1, '/images/product/05.jpg', N'Hoa tulip biểu tượng của sự kiêu sa và tình yêu hoàn hảo', 'tulip');
+INSERT INTO SanPham (TenSP, Gia, GiaKM, MaDanhMuc, Hinh, MoTa, TagName) VALUES
+(N'Hoa Hồng', 200000, 180000, 1, '/images/product/01.jpg', N'Hoa hồng tượng trưng cho tình yêu và sự lãng mạn', 'love,rose'),
+(N'Hoa Cúc', 120000, 100000, 1, '/images/product/02.jpg', N'Hoa cúc mang ý nghĩa trường thọ và sự thanh khiết', 'fresh,flower'),
+(N'Hoa Sen', 150000, 130000, 1, '/images/product/03.jpg', N'Hoa sen tượng trưng cho sự thanh cao và thuần khiết', 'lotus'),
+(N'Hoa Lan', 250000, 220000, 1, '/images/product/04.jpg', N'Hoa lan sang trọng và quý phái', 'orchid'),
+(N'Hoa Tulip', 300000, 270000, 1, '/images/product/05.jpg', N'Hoa tulip biểu tượng của sự kiêu sa và tình yêu hoàn hảo', 'tulip');
 
 -- Thêm User
 INSERT INTO [User] (UserID, UserName, [Pass], TrangThai, Role) VALUES
@@ -123,7 +124,6 @@ INSERT INTO ChiTietHoaDon (ChiTietID, MaHD, MaSP, SoLuong, DonGia, ThanhTien) VA
 INSERT INTO BinhLuan (BinhLuanID, UserID, MaSP, Content, NgayTao) VALUES
 (1, 3, 1, N'Hoa hồng rất đẹp và tươi', GETDATE()),
 (2, 3, 5, N'Tulip giao hàng nhanh, chất lượng', GETDATE());
-ALTER TABLE SanPham ADD SoLuong INT DEFAULT 0;
 
 INSERT INTO WebSetting (WebSettingID, TenSite, Logo, DiaChi, Email, Hotline, DungLuongToiDa, RequestToiDa)
 VALUES 

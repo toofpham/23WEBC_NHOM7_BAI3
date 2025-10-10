@@ -44,24 +44,52 @@
             <h2>Product Detail</h2>
             @if (Model != null)
             {
+                // Xử lý hình sản phẩm
                 var imagePath = "~/images/product/default.jpg"; // Giá trị mặc định
                 if (Model["Hinh"] != DBNull.Value)
                 {
                     var hinhValue = Model["Hinh"]?.ToString();
-                    imagePath = string.IsNullOrEmpty(hinhValue) ? "~/images/product/default.jpg" : hinhValue;
+                    if (!string.IsNullOrEmpty(hinhValue))
+                    {
+                        // Nếu lưu full path hoặc path tương đối trên web
+                        if (hinhValue.StartsWith("~/") || hinhValue.StartsWith("/"))
+                        {
+                            imagePath = hinhValue;
+                        }
+                        else
+                        {
+                            // Nếu chỉ là tên file, nối với folder web
+                            imagePath = "~/images/product/" + hinhValue;
+                        }
+                    }
                 }
 
-                var price = Model["GiaKM"]?.ToString() ?? Model["Gia"]?.ToString() ?? "0";
+                // Xử lý giá
+                decimal priceValue = 0;
+                if (Model["GiaKM"] != DBNull.Value && decimal.TryParse(Model["GiaKM"].ToString(), out var km))
+                {
+                    priceValue = km;
+                }
+                else if (Model["Gia"] != DBNull.Value && decimal.TryParse(Model["Gia"].ToString(), out var g))
+                {
+                    priceValue = g;
+                }
+
+                string priceFormatted = String.Format("{0:N0} đồng", priceValue);
+
                 <div class="content_half left">
-                    <a rel="lightbox" href="@Url.Content(imagePath.Replace("jpg", "jpg_l"))" title="@(Model["TenSP"]?.ToString() ?? "Sản phẩm không tên")">
-                        <img src="@Url.Content(imagePath)" alt="@(Model["TenSP"]?.ToString() ?? "Sản phẩm không tên")" onError="this.onerror=null; this.src='@Url.Content("~/images/product/default.jpg")';" />
+                    <a rel="lightbox" href="@Url.Content(imagePath.Replace(".jpg", "_l.jpg"))" title="@(Model["TenSP"]?.ToString() ?? "Sản phẩm không tên")">
+                        <img src="@Url.Content(imagePath)" width="165" height="165"
+                             alt="@(Model["TenSP"]?.ToString() ?? "Sản phẩm không tên")"
+                             onerror="this.onerror=null;this.src='@Url.Content("~/images/product/default.jpg")';" />
                     </a>
                 </div>
+
                 <div class="content_half right">
                     <table>
                         <tr>
                             <td width="130">Price:</td>
-                            <td width="84">$@price</td>
+                            <td width="84">@priceFormatted</td>
                         </tr>
                         <tr>
                             <td>Availability:</td>
@@ -77,15 +105,14 @@
                     <div class="cleaner h20"></div>
                     <a href="@Url.Action("AddToCart", "ShoppingCart", new { id = Model["MaSP"] })" class="button">Add to Cart</a>
                 </div>
-                <div class="cleaner h40"></div>
 
+                <div class="cleaner h40"></div>
                 <h4>Product Description</h4>
-                <p>
-                    @(Model["MoTa"]?.ToString() ?? "Chưa có mô tả")
-                </p>
+                <p>@(Model["MoTa"]?.ToString() ?? "Chưa có mô tả")</p>
+
                 <div class="cleaner h40"></div>
                 <div class="blank_box">
-                    <a href="#"><img src="images/free_shipping.jpg" alt="Free Shipping" /></a>
+                    <a href="#"><img src="~/images/free_shipping.jpg" alt="Free Shipping" /></a>
                 </div>
             }
             else
@@ -94,6 +121,7 @@
             }
             <div class="cleaner"></div>
         </div>
+
         <div class="cleaner"></div>
     </div>
 </div>

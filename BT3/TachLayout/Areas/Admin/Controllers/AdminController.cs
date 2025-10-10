@@ -23,7 +23,7 @@ public class AdminController : Controller
     public IActionResult Index()
     {
         ViewData["Title"] = "Admin - Quản trị";
-        return View();
+        return View("~/Areas/Admin/Views/Admin/Index.cshtml");
     }
 
     [HttpGet("Login")]

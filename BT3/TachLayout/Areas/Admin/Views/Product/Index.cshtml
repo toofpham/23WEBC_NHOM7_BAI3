@@ -1,0 +1,76 @@
+﻿@model List<TachLayout.Models.Product>
+
+@section Title {
+     Trang Quản Trị
+}
+
+<h2 class="mb-4">Danh sách sản phẩm</h2>
+
+<!-- ✅ Nút thêm sản phẩm -->
+<a href="@Url.Action("Create", "Product", new { area = "Admin" })" class="btn btn-success mb-3">
+    + Thêm sản phẩm
+</a>
+
+<!-- ✅ Bảng hiển thị danh sách sản phẩm -->
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Mã SP</th>
+            <th>Tên sản phẩm</th>
+            <th>Giá</th>
+            <th>Giá KM</th>
+            <th>Hình</th>
+            <th>Mô tả</th>
+            <th>Tag</th>
+            <th>Danh mục</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Count > 0)
+        {
+            foreach (var sp in Model)
+            {
+                <tr>
+                    <td>@sp.MaSP</td>
+                    <td>@sp.TenSP</td>
+                    <td>@sp.Gia.ToString("N0") ₫</td>
+                    <td>@sp.GiaKM.ToString("N0") ₫</td>
+                    <td>
+                        @{
+                            string imgPath;
+                            if (!string.IsNullOrEmpty(sp.Hinh))
+                            {
+                                imgPath = sp.Hinh.StartsWith("/images/")
+                                ? sp.Hinh
+                                : "~/images/product/" + sp.Hinh;
+                            }
+                            else
+                            {
+                                imgPath = "~/images/product/default.jpg";
+                            }
+                        }
+                        <img src="@Url.Content(imgPath)" alt="@sp.TenSP" width="60" height="60" style="object-fit: cover;" />
+                    </td>
+                    <td>@sp.MoTa</td>
+                    <td>@sp.TagName</td>
+                    <td>@sp.MaDanhMuc</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="8" class="text-center text-danger">
+                    Không có sản phẩm nào trong cơ sở dữ liệu.
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success mt-3">
+        @TempData["Success"]
+    </div>
+}

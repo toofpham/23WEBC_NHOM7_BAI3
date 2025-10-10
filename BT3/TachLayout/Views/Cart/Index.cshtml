@@ -55,7 +55,27 @@
                     foreach (var item in Model)
                     {
                         <tr>
-                            <td><img src="@item.Hinh" width="100" /></td>
+                            @{
+                                string imagePath = "~/images/product/default.jpg"; // Mặc định
+
+                                if (!string.IsNullOrEmpty(item.Hinh))
+                                {
+                                    if (item.Hinh.StartsWith("~/") || item.Hinh.StartsWith("/"))
+                                    {
+                                        // Nếu đường dẫn là tương đối trong web
+                                        imagePath = item.Hinh;
+                                    }
+                                    else
+                                    {
+                                        // Nếu chỉ là tên file, nối với folder web
+                                        imagePath = "~/images/product/" + item.Hinh;
+                                    }
+                                }
+                            }
+                            <td>
+                                <img src="@Url.Content(imagePath)" width="165" height="165"
+                                     onerror="this.onerror=null;this.src='@Url.Content("~/images/product/default.jpg")';" />
+                            </td>
                             <td>@item.TenSP</td>
                             <td align="center">
                                 <form method="post" action="@Url.Action("UpdateQuantity", "Cart")" style="display:inline;">
