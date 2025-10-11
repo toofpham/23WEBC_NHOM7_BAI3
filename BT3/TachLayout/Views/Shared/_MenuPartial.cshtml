@@ -1,14 +1,25 @@
-﻿<div id="templatemo_menu" class="ddsmoothmenu">
+﻿<!-- 🔹 Menu điều hướng chính -->
+<div id="templatemo_menu" class="ddsmoothmenu">
+    
+    <!-- 🔹 Danh sách các mục menu -->
     <ul>
+         <!-- 🔹 Trang chủ -->
         <li><a asp-controller="home" asp-action="index" class="@(ViewBag.PageName=="Home"?"selected":"")">Home</a></li>
+        
+        <!-- 🔹 Giới thiệu -->
         <li><a asp-controller="home" asp-action="about" class="@(ViewBag.PageName=="About"?"selected":"")">About</a></li>
+        
+        <!-- 🔹 Giỏ hàng -->
         <li><a asp-controller="cart" asp-action="index" class="@(ViewBag.PageName=="Cart"?"selected":"")">Cart</a></li>
+        
+        <!-- 🔹 Sản phẩm -->
         <li><a asp-controller="products" asp-action="index" class="@(ViewBag.PageName=="Products"?"selected":"")">Products</a></li>
-        @* <li><a asp-controller="checkout" asp-action="index" class="@(ViewBag.PageName=="Checkout"?"selected":"")">Checkout</a></li> *@
+        
+         <!-- 🔹 Liên hệ -->
         <li><a asp-controller="home" asp-action="contact" class="@(ViewBag.PageName=="Contact"?"selected":"")">Contact</a></li>
-        @* <li><a asp-controller="home" asp-action="faqs" class="@(ViewBag.PageName=="Faqs"?"selected":"")">FAQs</a></li> *@
-        @* <li><a asp-area="Admin" asp-controller="Admin" asp-action="Login" class="btn btn-dark">Admin Login</a></li> *@
     </ul>
+
+    <!-- 🔹 Ô tìm kiếm -->
     <div id="templatemo_search">
         <form action="#" method="get">
             <input type="text" value="Site Search" name="keyword" id="keyword" class="txt_field" />
@@ -16,6 +27,7 @@
         </form>
     </div>
 
+     <!-- 🔹 Dọn layout (clear float) -->
     <br style="clear: left" />
 
 </div>

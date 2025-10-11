@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.PageName = "Order Success";
+}
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<div id="templatemo_main_wrapper">
+    <div id="templatemo_main">
+        <div id="content" class="center" style="text-align: center; padding: 50px 0;">
+            <div style="color: #28a745; font-size: 48px; margin-bottom: 20px;">
+                <i class="bi bi-check-circle-fill"></i>
+            </div>
+            <h2 style="color: #28a745;">Đặt Hàng Thành Công!</h2>
+
+            @if (TempData["OrderSuccess"] != null)
+            {
+                <div class="alert alert-success" style="font-size: 18px; margin: 20px 0;">
+                    @TempData["OrderSuccess"]
+                </div>
+            }
+
+            <p style="font-size: 16px; margin: 20px 0;">
+                Thông tin đơn hàng đã được ghi nhận và đang chờ xác nhận từ quản trị viên.</p>
+
+            <div class="mt-4 text-center">
+                <a href="@Url.Action("Index", "Home")" class="btn btn-success btn-lg">
+                    Tiếp tục mua sắm
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

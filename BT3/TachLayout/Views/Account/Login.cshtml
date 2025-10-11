@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Đăng nhập";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="~/css/account.css" />
+
+<div class="login-container">
+    <h2>Đăng nhập</h2>
+
+    <form method="post" action="/account/login" class="login-form">
+        <div class="form-group">
+            <label for="username">Tên đăng nhập</label>
+            <input type="text" id="username" name="username" required />
+        </div>
+
+        <div class="form-group">
+            <label for="pass">Mật khẩu</label>
+            <input type="password" id="pass" name="pass" required />
+        </div>
+
+        <button type="submit" class="btn-login">Đăng nhập</button>
+    </form>
+
+    @if (ViewBag.Error != null)
+    {
+        <p class="error-msg">@ViewBag.Error</p>
+    }
+
+    <p class="register-link">
+        Chưa có tài khoản? <a href="/account/register">Đăng ký ngay</a>
+    </p>
+</div>

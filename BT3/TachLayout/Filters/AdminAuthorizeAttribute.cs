@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.AspNetCore.Http;
-using TachLayout.Filters;
 
 namespace TachLayout.Filters
 {
@@ -9,11 +8,16 @@ namespace TachLayout.Filters
     {
         public override void OnActionExecuting(ActionExecutingContext context)
         {
-            var session = context.HttpContext.Session.GetString("AdminSession");
-            if (string.IsNullOrEmpty(session))
+            var role = context.HttpContext.Session.GetString("Role");
+            var username = context.HttpContext.Session.GetString("Username");
+
+            // Nếu chưa đăng nhập hoặc không phải admin => chuyển hướng đến trang đăng nhập
+            if (string.IsNullOrEmpty(username) || !string.Equals(role, "Admin", StringComparison.OrdinalIgnoreCase))
             {
-                context.Result = new RedirectToActionResult("Login", "Admin", new { area = "Admin" });
+                context.Result = new RedirectToActionResult("Login", "Account", new { area = "" });
+                return;
             }
+
             base.OnActionExecuting(context);
         }
     }

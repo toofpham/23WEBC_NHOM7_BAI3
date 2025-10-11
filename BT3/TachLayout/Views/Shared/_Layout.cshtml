@@ -1,93 +1,129 @@
 ﻿@{
+    // Nếu ViewData["Title"] chưa có, gán mặc định là "Trang web"
     ViewData["Title"] = ViewData["Title"] ?? "Trang web";
 }
 
-
-
-
-
-
-<!-- templatemo 385 floral shop -->
-<!-- 
-Floral Shop Template 
-http://www.templatemo.com/preview/templatemo_385_floral_shop 
--->
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
+<head>
+    <!-- 🔹 Cấu hình cơ bản  -->
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>@ViewData["Title"]</title>
     <meta name="keywords" content="" />
     <meta name="description" content="" />
     <base href="~/" />
+
+     <!-- 🔹 CSS chính -->
     <link href="templatemo_style.css" rel="stylesheet" type="text/css" />
 
-    <link
-      rel="stylesheet"
-      href="css/orman.css"
-      type="text/css"
-      media="screen"
-    />
-    <link
-      rel="stylesheet"
-      href="css/nivo-slider.css"
-      type="text/css"
-      media="screen"
-    />
-
-    <link rel="stylesheet" type="text/css" href="css/ddsmoothmenu.css" />
-
+    <!-- 🔹 CSS cho slider -->
+    <link rel="stylesheet"
+          href="css/orman.css"
+          type="text/css"
+          media="screen" />
+    <link rel="stylesheet"
+          href="css/nivo-slider.css"
+          type="text/css"
+          media="screen" />
     
+    <!-- 🔹 CSS cho menu và khu vực đăng nhập -->
+    <link rel="stylesheet" type="text/css" href="css/ddsmoothmenu.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/auth-section.css" />
 
+     <!-- 🔹 Thư viện JS và menu động -->
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <script type="text/javascript" src="js/ddsmoothmenu.js">
 
-      /***********************************************
-      * Smooth Navigational Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
-      * This notice MUST stay intact for legal use
-      * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
-      ***********************************************/
+        /***********************************************
+        * Smooth Navigational Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+        * This notice MUST stay intact for legal use
+        * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+        ***********************************************/
     </script>
 
+    <!-- 🔹 Cấu hình khởi tạo menu -->
     <script type="text/javascript">
-      ddsmoothmenu.init({
-        mainmenuid: "templatemo_menu", //menu DIV id
-        orientation: "h", //Horizontal or vertical menu: Set to "h" or "v"
-        classname: "ddsmoothmenu", //class added to menu's outer DIV
-        //customtheme: ["#1c5a80", "#18374a"],
-        contentsource: "markup", //"markup" or ["container_id", "path_to_menu_file"]
-      });
+        ddsmoothmenu.init({
+          mainmenuid: "templatemo_menu", //menu DIV id
+          orientation: "h", //Horizontal or vertical menu: Set to "h" or "v"
+          classname: "ddsmoothmenu", //class added to menu's outer DIV
+          //customtheme: ["#1c5a80", "#18374a"],
+          contentsource: "markup", //"markup" or ["container_id", "path_to_menu_file"]
+        });
 
-      function clearText(field) {
-        if (field.defaultValue == field.value) field.value = "";
-        else if (field.value == "") field.value = field.defaultValue;
-      }
+        function clearText(field) {
+          if (field.defaultValue == field.value) field.value = "";
+          else if (field.value == "") field.value = field.defaultValue;
+        }
     </script>
 
+     <!-- 🔹 JS & CSS cho hiệu ứng ảnh -->
     <script type="text/javascript" src="js/jquery-1-4-2.min.js"></script>
-    <link
-      rel="stylesheet"
-      href="css/slimbox2.css"
-      type="text/css"
-      media="screen"
-    />
+    <link rel="stylesheet"
+          href="css/slimbox2.css"
+          type="text/css"
+          media="screen" />
     <script type="text/JavaScript" src="js/slimbox2.js"></script>
-  </head>
+</head>
 
-  <body>
+<body>
 
-        @Html.Partial("_HeaderPartial")
-
-
-        <div id="templatemo_main_wrapper main-content">
-            <main role="main" class="pb-3">
-                @RenderBody()
-        </main>
-        </div>
-
-
-        @await Component.InvokeAsync("WebSetting")
-      
+    <!-- 🔹 Debug thông tin Session (ẩn mặc định) -->
+    <div style="display: none; background: yellow; padding: 5px; text-align: center;" id="sessionDebug">
+        Debug: UserID=@Context.Session.GetInt32("UserID"), Username=@Context.Session.GetString("Username")
     </div>
-  </body>
+
+    <!-- 🔹 Khu vực hiển thị đăng nhập/đăng xuất -->
+    <div class="auth-section">
+
+        <!-- 🔹 Lấy thông tin người dùng hiện tại từ Session -->
+        @{
+            var userID = Context.Session.GetInt32("UserID");
+            var username = Context.Session.GetString("Username");
+        }
+
+        <!-- 🔹 Kiểm tra đăng nhập -->
+        @if (userID != null && !string.IsNullOrEmpty(username))
+        {
+            <span class="welcome-text">Xin chào, <b>@username</b>!</span>
+
+            
+            @if (!string.IsNullOrEmpty(username) && username.Equals("admin", StringComparison.OrdinalIgnoreCase))
+            {
+                <a class="auth-btn admin-btn" asp-area="Admin" asp-controller="Admin" asp-action="Index">Vào Admin</a>
+            }
+
+            <a class="auth-btn logout-btn" asp-controller="Account" asp-action="Logout">Đăng xuất</a>
+        }
+        else
+        {
+            <a class="auth-btn login-btn" asp-controller="Account" asp-action="Login">Đăng nhập</a>
+            <a class="auth-btn register-btn" asp-controller="Account" asp-action="Register">Đăng ký</a>
+        }
+
+    </div>
+
+    <!--  🔹 Gọi Header Partial chứa hiển thị logo và navbar, slider-->
+    @Html.Partial("_HeaderPartial")
+
+    <!--  🔹 Nội dung chính-->
+    <div id="templatemo_main_wrapper main-content">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!--  🔹 Gọi ViewComponent “WebSetting” chứa footer và cài đặt website-->
+    @await Component.InvokeAsync("WebSetting")
+
+    <!--  🔹 Script để hiển thị debug khi cần -->
+    <script>
+        document.addEventListener('keydown', function(e) {
+            if (e.ctrlKey && e.shiftKey && e.key === 'D') {
+                document.getElementById('sessionDebug').style.display = 'block';
+            }
+        });
+    </script>
+
+</body>
 </html>

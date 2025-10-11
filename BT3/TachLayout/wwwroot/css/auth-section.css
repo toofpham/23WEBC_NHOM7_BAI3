@@ -1,0 +1,59 @@
+﻿.auth-section {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 8px 16px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.welcome-text {
+    color: #2c662d;
+    font-size: 15px;
+    margin-right: 8px;
+}
+
+.auth-btn {
+    text-decoration: none;
+    padding: 8px 14px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    transition: all 0.2s ease-in-out;
+}
+
+.login-btn {
+    background: #3fb950; /* xanh lá chính */
+    color: white;
+    border: 1px solid #3fb950;
+}
+
+    .login-btn:hover {
+        background: #2e8e3e;
+        transform: translateY(-2px);
+    }
+
+.register-btn {
+    background: white;
+    color: #3fb950;
+    border: 1px solid #3fb950;
+}
+
+    .register-btn:hover {
+        background: #3fb950;
+        color: white;
+        transform: translateY(-2px);
+    }
+
+.logout-btn {
+    background: #ff6868;
+    color: white;
+    border: 1px solid #ff6868;
+}
+
+    .logout-btn:hover {
+        background: #e84c4c;
+        transform: translateY(-2px);
+    }

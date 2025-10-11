@@ -1,0 +1,141 @@
+﻿
+@using System.Data
+@{
+    var donHangChoXacNhan = ViewData["DonHangChoXacNhan"] as DataTable;
+    var donHangDaXacNhan = ViewData["DonHangDaXacNhan"] as DataTable;
+    ViewData["Title"] = "Quản lý Đơn Hàng";
+}
+@section Title {
+}
+<div class="container my-5">
+    <h2 class="fw-bold text-center mb-4">
+        <i class="bi bi-cart-check me-2"></i>Quản lý Đơn Hàng
+    </h2>
+    <div class="row mt-5">
+        <!-- Đơn hàng chờ xác nhận -->
+        <div class="col-md-6">
+            <div class="card shadow-sm border-0 rounded-4">
+                <div class="card-header bg-warning text-white">
+                    <h5 class="mb-0">
+                        <i class="bi bi-clock-history me-2"></i>
+                        Đơn Hàng Chờ Xác Nhận
+                        <span class="badge bg-danger ms-2">@donHangChoXacNhan.Rows.Count</span>
+                    </h5>
+                </div>
+                <div class="card-body">
+                    @if (donHangChoXacNhan.Rows.Count == 0)
+                    {
+                        <p class="text-muted">Không có đơn hàng nào chờ xác nhận.</p>
+                    }
+                    else
+                    {
+                        <div class="table-responsive">
+                            <table class="table table-sm">
+                                <thead>
+                                    <tr>
+                                        <th>Mã HD</th>
+                                        <th>Khách hàng</th>
+                                        <th>Ngày đặt</th>
+                                        <th>Tổng tiền</th>
+                                        <th>Thao tác</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (DataRow row in donHangChoXacNhan.Rows)
+                                    {
+                                        <tr>
+                                            <td class="fw-bold">#@row["MaHD"]</td>
+                                            <td>@row["TenNguoiNhan"]</td>
+                                            <td>@Convert.ToDateTime(row["NgayLap"]).ToString("dd/MM/yyyy HH:mm")</td>
+                                            <td>@Convert.ToDecimal(row["TongTien"]).ToString("N0") ₫</td>
+                                            <td>
+                                                <div class="d-flex btn-group btn-group-sm w-100" role="group">
+                                                    <a href="@Url.Action("ChiTietDonHang", "Admin", new { area = "Admin", maHD = row["MaHD"] })"
+                                                       class="btn btn-info btn-sm flex-fill text-center">
+                                                        <i class="bi bi-eye me-1"></i> Chi tiết
+                                                    </a>
+
+                                                    <form asp-action="XacNhanDonHang" method="post" class="d-flex flex-fill m-0 p-0">
+                                                        <input type="hidden" name="maHD" value="@row["MaHD"]" />
+                                                        <button type="submit" class="btn btn-success btn-sm flex-fill text-center m-0"
+                                                                onclick="return confirm('Xác nhận duyệt đơn hàng #@row["MaHD"]?')">
+                                                            <i class="bi bi-check-lg"></i> Duyệt
+                                                        </button>
+                                                    </form>
+
+                                                    <form asp-action="HuyDonHang" method="post" class="d-flex flex-fill m-0 p-0">
+                                                        <input type="hidden" name="maHD" value="@row["MaHD"]" />
+                                                        <button type="submit" class="btn btn-danger btn-sm flex-fill text-center m-0"
+                                                                onclick="return confirm('Bạn có chắc muốn hủy đơn hàng #@row["MaHD"]?')">
+                                                            <i class="bi bi-x-lg"></i> Hủy
+                                                        </button>
+                                                    </form>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <!-- Đơn hàng đã xác nhận -->
+        <div class="col-md-6">
+            <div class="card shadow-sm border-0 rounded-4">
+                <div class="card-header bg-success text-white">
+                    <h5 class="mb-0">
+                        <i class="bi bi-check-circle me-2"></i>
+                        Đơn Hàng Đã Xác Nhận
+                        <span class="badge bg-primary ms-2">@donHangDaXacNhan.Rows.Count</span>
+                    </h5>
+                </div>
+                <div class="card-body">
+                    @if (donHangDaXacNhan.Rows.Count == 0)
+                    {
+                        <p class="text-muted">Không có đơn hàng nào đã xác nhận.</p>
+                    }
+                    else
+                    {
+                        <div class="table-responsive">
+                            <table class="table table-sm">
+                                <thead>
+                                    <tr>
+                                        <th>Mã HD</th>
+                                        <th>Khách hàng</th>
+                                        <th>Ngày đặt</th>
+                                        <th>Tổng tiền</th>
+                                        <th>Trạng thái</th>
+                                        <th>Thao tác</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (DataRow row in donHangDaXacNhan.Rows)
+                                    {
+                                        <tr>
+                                            <td class="fw-bold">#@row["MaHD"]</td>
+                                            <td>@row["TenNguoiNhan"]</td>
+                                            <td>@Convert.ToDateTime(row["NgayLap"]).ToString("dd/MM/yyyy HH:mm")</td>
+                                            <td>@Convert.ToDecimal(row["TongTien"]).ToString("N0") ₫</td>
+                                            <td><span class="badge bg-success">@row["TrangThai"]</span></td>
+                                            <td>
+                                                <div class="btn-group btn-group-sm" role="group">
+                                                    <a href="@Url.Action("ChiTietDonHang", "Admin", new { area = "Admin", maHD = row["MaHD"] })"
+                                                       class="btn btn-info btn-sm flex-fill text-center">
+                                                        <i class="bi bi-eye me-1"></i> Chi tiết
+                                                    </a>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

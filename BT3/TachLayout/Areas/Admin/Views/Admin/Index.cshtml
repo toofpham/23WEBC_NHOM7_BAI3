@@ -1,21 +1,39 @@
-﻿@section Title{}
-
-
-
+﻿@{
+    ViewData["Title"] = "Trang Quản Trị";
+}
+@section Title {
+} 
 <div class="container my-5">
     <div class="text-center mb-4">
         <h1 class="text-primary fw-bold">
             <i class="bi bi-speedometer2 me-2"></i>Trang Quản Trị Website
         </h1>
         <p class="text-muted fs-5 mt-3">
-            Chào mừng bạn đến với khu vực quản trị hệ thống!  
+            Chào mừng bạn đến với khu vực quản trị hệ thống!
             Tại đây bạn có thể quản lý nội dung, sản phẩm, khách hàng và các thông tin cài đặt của website.
         </p>
     </div>
 
+    <!-- Hiển thị thông báo -->
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <i class="bi bi-check-circle-fill me-2"></i> @TempData["SuccessMessage"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
+    }
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            <i class="bi bi-exclamation-triangle-fill me-2"></i> @TempData["ErrorMessage"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
+    }
+
+    <!-- Menu card -->
     <div class="row g-4 mt-4">
         <div class="col-md-4">
-            <a asp-controller="websetting" asp-action="websetting" class="text-decoration-none text-dark">
+            <a asp-controller="WebSetting" asp-action="WebSetting" class="text-decoration-none text-dark">
                 <div class="card shadow-sm border-0 rounded-4 h-100 text-center p-4 hover-shadow">
                     <i class="bi bi-gear-fill text-primary fs-1 mb-3"></i>
                     <h5 class="fw-semibold">Cài đặt Website</h5>
@@ -25,31 +43,23 @@
         </div>
 
         <div class="col-md-4">
-            <div class="card shadow-sm border-0 rounded-4 h-100 text-center p-4 hover-shadow">
-                <i class="bi bi-box-seam text-success fs-1 mb-3"></i>
-                <h5 class="fw-semibold">Quản lý Sản phẩm</h5>
-                <p class="text-muted mb-0">Thêm, sửa, xóa hoặc cập nhật thông tin sản phẩm.</p>
-            </div>
+            <a asp-controller="Product" asp-action="Index" asp-area="Admin" class="text-decoration-none text-dark">
+                <div class="card shadow-sm border-0 rounded-4 h-100 text-center p-4 hover-shadow">
+                    <i class="bi bi-box-seam text-success fs-1 mb-3"></i>
+                    <h5 class="fw-semibold">Quản lý Sản phẩm</h5>
+                    <p class="text-muted mb-0">Thêm, sửa, xóa hoặc cập nhật thông tin sản phẩm.</p>
+                </div>
+            </a>
         </div>
 
         <div class="col-md-4">
-            <div class="card shadow-sm border-0 rounded-4 h-100 text-center p-4 hover-shadow">
-                <i class="bi bi-people-fill text-warning fs-1 mb-3"></i>
-                <h5 class="fw-semibold">Quản lý Người dùng</h5>
-                <p class="text-muted mb-0">Theo dõi thông tin và hoạt động của người dùng.</p>
-            </div>
+            <a asp-controller="NguoiDung" asp-action="Index" class="text-decoration-none text-dark">
+                <div class="card shadow-sm border-0 rounded-4 h-100 text-center p-4 hover-shadow">
+                    <i class="bi bi-people-fill text-warning fs-1 mb-3"></i>
+                    <h5 class="fw-semibold">Quản lý Người dùng</h5>
+                    <p class="text-muted mb-0">Theo dõi thông tin và hoạt động của người dùng.</p>
+                </div>
+            </a>
         </div>
     </div>
 </div>
-
-<style>
-.hover-shadow:hover {
-    transform: translateY(-5px);
-    transition: all 0.3s ease;
-    box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15) !important;
-    text-derection: none;
-}
-a {
-    text-decoration: none !important;
-}
-</style>

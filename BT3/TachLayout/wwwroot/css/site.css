@@ -1,0 +1,40 @@
+﻿/* CSS cho giao diện hiển thị */
+.order-detail-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Định nghĩa kích thước đồng nhất cho các nút */
+.uniform-btn {
+    min-width: 120px; /* Chiều rộng cố định */
+    height: 40px; /* Chiều cao cố định */
+    padding: 0 10px; /* Điều chỉnh padding để cân đối */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Quy tắc in ấn */
+@media print {
+    .print-hide {
+        display: none !important;
+    }
+
+    .card {
+        border: 1px solid #000;
+        box-shadow: none;
+    }
+
+    .table {
+        border-collapse: collapse;
+    }
+
+        .table th, .table td {
+            border: 1px solid #000;
+        }
+    /* Đảm bảo các phần tử form cũng bị ẩn */
+    form.print-hide {
+        display: none !important;
+    }
+}

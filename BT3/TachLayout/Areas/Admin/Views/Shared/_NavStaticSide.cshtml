@@ -1,100 +1,64 @@
-﻿<div class="navbar-default sidebar" role="navigation">
-                <div class="sidebar-nav navbar-collapse">
-                    <ul class="nav" id="side-menu">
-                        <li class="sidebar-search">
-                            <div class="input-group custom-search-form">
-                                <input type="text" class="form-control" placeholder="Search...">
-                                <span class="input-group-btn">
-                                <button class="btn btn-default" type="button">
-                                    <i class="fa fa-search"></i>
-                                </button>
-                            </span>
-                            </div>
-                            <!-- /input-group -->
-                        </li>
-                        <li>
-                            <a href="index.html"><i class="fa fa-dashboard fa-fw"></i> Dashboard</a>
-                        </li>
+﻿<!-- Sidebar chính -->
+<div class="navbar-default sidebar" role="navigation">
 
-                        <li>
-                            <a href="tables.html"><i class="fa fa-table fa-fw"></i> Tables</a>
-                        </li>
-                        <li>
-                            <a href="forms.html"><i class="fa fa-edit fa-fw"></i> Forms</a>
-                        </li>
-                        <li>
-                            <a href="#"><i class="fa fa-wrench fa-fw"></i> UI Elements<span class="fa arrow"></span></a>
-                            <ul class="nav nav-second-level">
-                                <li>
-                                    <a href="panels-wells.html">Panels and Wells</a>
-                                </li>
-                                <li>
-                                    <a href="buttons.html">Buttons</a>
-                                </li>
-                                <li>
-                                    <a href="notifications.html">Notifications</a>
-                                </li>
-                                <li>
-                                    <a href="typography.html">Typography</a>
-                                </li>
-                                <li>
-                                    <a href="icons.html"> Icons</a>
-                                </li>
-                                <li>
-                                    <a href="grid.html">Grid</a>
-                                </li>
-                            </ul>
-                            <!-- /.nav-second-level -->
-                        </li>
-                        <li>
-                            <a href="#"><i class="fa fa-sitemap fa-fw"></i> Multi-Level Dropdown<span class="fa arrow"></span></a>
-                            <ul class="nav nav-second-level">
-                                <li>
-                                    <a href="#">Second Level Item</a>
-                                </li>
-                                <li>
-                                    <a href="#">Second Level Item</a>
-                                </li>
-                                <li>
-                                    <a href="#">Third Level <span class="fa arrow"></span></a>
-                                    <ul class="nav nav-third-level">
-                                        <li>
-                                            <a href="#">Third Level Item</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Third Level Item</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Third Level Item</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Third Level Item</a>
-                                        </li>
-                                    </ul>
-                                    <!-- /.nav-third-level -->
-                                </li>
-                            </ul>
-                            <!-- /.nav-second-level -->
-                        </li>
-                        <li>
-                            <a href="#"><i class="fa fa-files-o fa-fw"></i> Sample Pages<span class="fa arrow"></span></a>
-                            <ul class="nav nav-second-level">
-                                <li>
-                                    <a href="blank.html">Blank Page</a>
-                                </li>
-                                <li>
-                                    <a href="login.html">Login Page</a>
-                                </li>
-                            </ul>
-                            <!-- /.nav-second-level -->
-                        </li>
-                        <li>
-                            <a asp-controller="WebSetting" asp-action="WebSetting">WebSetting</a>
-                        </li>
-                        <li>
-                            <a asp-area="Admin" asp-controller="Product" asp-action="Index">Add Product</a>
-                        </li>
-                    </ul>
+    <!-- Phần nội dung bên trong sidebar -->
+    <div class="sidebar-nav navbar-collapse">
+
+        <!-- Danh sách menu chính -->
+        <ul class="nav" id="side-menu">
+
+            <!-- Ô tìm kiếm trong sidebar -->
+            <li class="sidebar-search">
+                <div class="input-group custom-search-form">
+                    <input type="text" class="form-control" placeholder="Search...">
+                    <span class="input-group-btn">
+                        <button class="btn btn-default" type="button">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </span>
                 </div>
-                <!-- /.sidebar-collapse -->
-            </div>
+                <!-- /input-group -->
+            </li>
+
+            <!-- Trang Quản Trị Website (mục đầu tiên) -->
+            <li>
+                <a asp-area="Admin" asp-controller="Admin" asp-action="Index">
+                    <i class="fa fa-home fa-fw me-1"></i> Trang Quản Trị Website
+                </a>
+            </li>
+
+            <!-- Mục: Cài đặt Web -->
+            <li>
+                <a asp-controller="WebSetting" asp-action="WebSetting">
+                    <i class="fa fa-cogs fa-fw me-1"></i> Cài đặt Web
+                </a>
+            </li>
+
+            <!-- Mục: Thêm sản phẩm -->
+            <li>
+                <a asp-area="Admin" asp-controller="Product" asp-action="Index">
+                    <i class="fa fa-plus-square fa-fw me-1"></i> Thêm sản phẩm
+                </a>
+            </li>
+
+            <!-- Mục: Quản lý đơn hàng -->
+            <li>
+                <a asp-area="Admin" asp-controller="Admin" asp-action="Donhang">
+                    <i class="fa fa-shopping-cart fa-fw me-1"></i> Quản lý đơn hàng
+                </a>
+            </li>
+
+            <!-- Mục: Về Trang Chính -->
+            <li>
+                <a asp-controller="Home" asp-action="Index">
+                    <i class="fa fa-arrow-left fa-fw me-1"></i> Về Trang Chính
+                </a>
+            </li>
+
+        </ul>
+        <!-- /ul.nav -->
+    </div>
+    <!-- /.sidebar-collapse -->
+
+</div>
+<!-- /.sidebar -->

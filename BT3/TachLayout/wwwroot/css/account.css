@@ -1,0 +1,93 @@
+﻿/* Đăng ký & Đăng nhập chung */
+.register-container,
+.login-container {
+    max-width: 400px;
+    margin: 60px auto;
+    background: #ffffff;
+    padding: 40px 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 128, 0, 0.2);
+    border-top: 5px solid #2ecc71;
+}
+
+    .register-container h2,
+    .login-container h2 {
+        text-align: center;
+        color: #2ecc71;
+        margin-bottom: 25px;
+    }
+
+.form-group {
+    margin-bottom: 18px;
+}
+
+    .form-group label {
+        display: block;
+        margin-bottom: 6px;
+        color: #333;
+        font-weight: 600;
+    }
+
+    .form-group input {
+        width: 100%;
+        padding: 10px 12px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        transition: 0.3s;
+    }
+
+        .form-group input:focus {
+            border-color: #2ecc71;
+            box-shadow: 0 0 5px rgba(46, 204, 113, 0.4);
+            outline: none;
+        }
+
+.btn-register,
+.btn-login {
+    width: 100%;
+    background-color: #2ecc71;
+    color: #fff;
+    border: none;
+    padding: 10px 0;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+    .btn-register:hover,
+    .btn-login:hover {
+        background-color: #27ae60;
+    }
+
+.error-msg {
+    color: #e74c3c;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.success-msg {
+    color: #27ae60;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.register-link,
+.login-link {
+    text-align: center;
+    margin-top: 20px;
+}
+
+    .register-link a,
+    .login-link a {
+        color: #2ecc71;
+        text-decoration: none;
+        font-weight: 600;
+    }
+
+        .register-link a:hover,
+        .login-link a:hover {
+            text-decoration: underline;
+        }

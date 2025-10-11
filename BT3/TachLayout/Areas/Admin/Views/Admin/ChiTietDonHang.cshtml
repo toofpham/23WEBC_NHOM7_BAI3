@@ -1,0 +1,200 @@
+﻿@using System.Data
+@{
+    ViewData["Title"] = ViewData["Title"] ?? "Chi tiết đơn hàng";
+    var hd = ViewData["HoaDon"] as DataRow;
+    var items = ViewData["ChiTietHoaDon"] as DataTable;
+    Layout = null; // Chạy độc lập để tránh xung đột với layout
+}
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="~/css/site.css" rel="stylesheet" asp-append-version="true">
+</head>
+<body>
+    <div class="order-detail-container">
+        <!-- Header -->
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <div>
+                <h4 class="mb-0">CHI TIẾT ĐƠN HÀNG</h4>
+                <small class="text-muted">Quản lý và xem chi tiết thông tin đơn hàng</small>
+            </div>
+        </div>
+
+        <!-- Tổng quan -->
+        <div class="row g-3 mb-4">
+            <div class="col-md-3">
+                <div class="card h-100">
+                    <div class="card-body d-flex flex-column justify-content-center">
+                        <small class="text-muted">Mã đơn hàng</small>
+                        <div class="h5 fw-bold text-primary">#@(hd?["MaHD"]?.ToString() ?? "N/A")</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card h-100">
+                    <div class="card-body d-flex flex-column justify-content-center">
+                        <small class="text-muted">Tổng tiền</small>
+                        <div class="h5 fw-bold text-danger">
+                            @(hd != null && hd["TongTien"] != DBNull.Value ? Convert.ToDecimal(hd["TongTien"]).ToString("N0") : "0") ₫
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card h-100">
+                    <div class="card-body d-flex flex-column justify-content-center">
+                        <small class="text-muted">Ngày đặt</small>
+                        <div>
+                            @(hd != null && hd["NgayLap"] != DBNull.Value ? Convert.ToDateTime(hd["NgayLap"]).ToString("dd/MM/yyyy HH:mm") : "Chưa cập nhật")
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card h-100">
+                    <div class="card-body d-flex flex-column justify-content-center">
+                        <small class="text-muted">Trạng thái</small>
+                        @{
+                            var tt = hd?["TrangThai"]?.ToString() ?? "Chưa cập nhật";
+                            string badgeClass = "bg-secondary text-white";
+                            if (!string.IsNullOrEmpty(tt))
+                            {
+                                if (tt.IndexOf("đã xác nhận", StringComparison.OrdinalIgnoreCase) >= 0) badgeClass = "bg-success text-white";
+                                else if (tt.IndexOf("đã hủy", StringComparison.OrdinalIgnoreCase) >= 0) badgeClass = "bg-danger text-white";
+                                else if (tt.IndexOf("đang xử lý", StringComparison.OrdinalIgnoreCase) >= 0) badgeClass = "bg-warning text-dark";
+                                else if (tt.IndexOf("chờ xác nhận", StringComparison.OrdinalIgnoreCase) >= 0) badgeClass = "bg-info text-white";
+                            }
+                        }
+                        <div><span class="badge @badgeClass">@tt</span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Khách hàng và sản phẩm -->
+        <div class="row g-3">
+            <!-- Thông tin khách hàng -->
+            <div class="col-lg-5">
+                <div class="card">
+                    <div class="card-header bg-light fw-bold">THÔNG TIN KHÁCH HÀNG</div>
+                    <div class="card-body">
+                        <p class="mb-1"><strong>Tên người nhận:</strong> @(hd?["TenNguoiNhan"]?.ToString() ?? "Chưa cập nhật")</p>
+                        <p class="mb-1"><strong>Số điện thoại:</strong> @(hd?["SDT"]?.ToString() ?? "Chưa cập nhật")</p>
+                        <p class="mb-1"><strong>Username:</strong> @(hd?["Username"]?.ToString() ?? "Chưa cập nhật")</p>
+                        <p class="mb-0"><strong>Địa chỉ:</strong> @(hd?["DiaChi"]?.ToString() ?? "Chưa cập nhật")</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Bảng sản phẩm -->
+            <div class="col-lg-7">
+                <div class="card">
+                    <div class="card-header bg-light fw-bold">CHI TIẾT SẢN PHẨM</div>
+                    <div class="card-body p-0">
+                        @if (items == null || items.Rows.Count == 0)
+                        {
+                            <div class="text-center p-4 text-muted">
+                                <i class="bi bi-cart-x fs-3"></i>
+                                <p class="mt-2 mb-0">Không có sản phẩm trong đơn hàng</p>
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="table-responsive">
+                                <table class="table table-striped table-hover table-sm mb-0 align-middle">
+                                    <thead class="table-light">
+                                        <tr>
+                                            <th style="width:40px">#</th>
+                                            <th>Sản phẩm</th>
+                                            <th class="text-center" style="width:80px">SL</th>
+                                            <th class="text-end" style="width:120px">Đơn giá</th>
+                                            <th class="text-end" style="width:120px">Thành tiền</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @{
+                                            int stt = 1;
+                                            decimal subTotal = 0m;
+                                            foreach (DataRow r in items.Rows)
+                                            {
+                                                var tenSP = r["TenSP"] != DBNull.Value ? r["TenSP"].ToString() : "Sản phẩm";
+                                                var soLuong = r["SoLuong"] != DBNull.Value ? Convert.ToInt32(r["SoLuong"]) : 0;
+                                                var donGia = r["DonGia"] != DBNull.Value ? Convert.ToDecimal(r["DonGia"]) : 0m;
+                                                var thanhTien = r["ThanhTien"] != DBNull.Value ? Convert.ToDecimal(r["ThanhTien"]) : donGia * soLuong;
+                                                subTotal += thanhTien;
+                                                <tr>
+                                                    <td>@stt</td>
+                                                    <td>@tenSP</td>
+                                                    <td class="text-center">@soLuong</td>
+                                                    <td class="text-end">@donGia.ToString("N0") ₫</td>
+                                                    <td class="text-end">@thanhTien.ToString("N0") ₫</td>
+                                                </tr>
+                                                stt++;
+                                            }
+                                        }
+                                    </tbody>
+                                    <tfoot>
+                                        <tr class="table-light fw-bold">
+                                            <td colspan="4" class="text-end">Tổng cộng</td>
+                                            <td class="text-end">@subTotal.ToString("N0") ₫</td>
+                                        </tr>
+                                    </tfoot>
+                                </table>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Nút hành động -->
+        <div class="d-flex justify-content-end mt-4 flex-wrap gap-2">
+            <a asp-area="Admin" asp-controller="Admin" asp-action="DonHang" class="btn btn-outline-secondary btn-sm uniform-btn print-hide">
+                <i class="bi bi-arrow-left"></i> Quay lại
+            </a>
+            <button type="button" class="btn btn-primary btn-sm uniform-btn print-hide" onclick="window.print()">
+                <i class="bi bi-printer"></i> In hóa đơn
+            </button>
+            @if (hd != null && hd["TrangThai"]?.ToString().IndexOf("Chờ xác nhận", StringComparison.OrdinalIgnoreCase) >= 0)
+            {
+                <form asp-area="Admin" asp-action="XacNhanDonHang" method="post" class="d-inline print-hide">
+                    @Html.AntiForgeryToken()
+                    <input type="hidden" name="maHD" value="@(hd["MaHD"]?.ToString() ?? "")" />
+                    <button type="submit" class="btn btn-success btn-sm uniform-btn">
+                        <i class="bi bi-check-lg"></i> Xác nhận
+                    </button>
+                </form>
+                <form asp-area="Admin" asp-action="HuyDonHang" method="post" class="d-inline print-hide">
+                    @Html.AntiForgeryToken()
+                    <input type="hidden" name="maHD" value="@(hd["MaHD"]?.ToString() ?? "")" />
+                    <button type="submit" class="btn btn-danger btn-sm uniform-btn">
+                        <i class="bi bi-x-lg"></i> Hủy
+                    </button>
+                </form>
+            }
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+    <script>
+        // Fallback JavaScript để ẩn nút khi in
+        window.onbeforeprint = function () {
+            console.log("Hiding print-hide elements");
+            document.querySelectorAll('.print-hide').forEach(btn => {
+                btn.style.display = 'none';
+            });
+        };
+        window.onafterprint = function () {
+            console.log("Restoring print-hide elements");
+            document.querySelectorAll('.print-hide').forEach(btn => {
+                btn.style.display = '';
+            });
+        };
+    </script>
+</body>
+</html>

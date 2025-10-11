@@ -9,125 +9,145 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TachLayout
 build_property.RootNamespace = TachLayout
-build_property.ProjectDir = D:\ckc\nam3hk1\ASPNET core\23WEBC_NHOM7\baitapnhom3\23WEBC_NHOM7_BAI3\BT3\TachLayout\
+build_property.ProjectDir = D:\ckc\nam3hk1\ASPNET core\23WEBC_NHOM7\baitapnhom3\23WEBC_NHOM7_BAI3\23WEBC_NHOM7_BAI3\BT3\TachLayout\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\ckc\nam3hk1\ASPNET core\23WEBC_NHOM7\baitapnhom3\23WEBC_NHOM7_BAI3\BT3\TachLayout
+build_property.MSBuildProjectDirectory = D:\ckc\nam3hk1\ASPNET core\23WEBC_NHOM7\baitapnhom3\23WEBC_NHOM7_BAI3\23WEBC_NHOM7_BAI3\BT3\TachLayout
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/Admin/Index.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/Admin/ChiTietDonHang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cQ2hpVGlldERvbkhhbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/Admin/Donhang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRG9uaGFuZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/Admin/Login.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/Admin/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/Product/Create.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/Product/Index.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/Shared/_NavHeader.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/Shared/_NavHeader.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9OYXZIZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/Shared/_NavStaticSide.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/Shared/_NavStaticSide.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9OYXZTdGF0aWNTaWRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/Shared/_NavTopLink.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/Shared/_NavTopLink.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9OYXZUb3BMaW5rLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/WebSetting/EditWebSetting.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/WebSetting/EditWebSetting.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV2ViU2V0dGluZ1xFZGl0V2ViU2V0dGluZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/WebSetting/WebSetting.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/WebSetting/WebSetting.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV2ViU2V0dGluZ1xXZWJTZXR0aW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/_ViewImports.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/_ViewStart.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Cart/Index.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Home/About.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Cart/OrderSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxPcmRlclN1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Home/Contact.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Home/Index.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Home/TestAPI.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Home/TestAPI.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXN0QVBJLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Product/Details.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Product/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Product/Index.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Shared/Error.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Shared/_FooterPartial.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Shared/_FooterPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Shared/_HeaderPartial.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Shared/_HeaderPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Shared/_MenuPartial.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Shared/_MenuPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51UGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/_ViewImports.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/_ViewStart.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Shared/_Layout.cshtml]
+[D:/ckc/nam3hk1/ASPNET core/23WEBC_NHOM7/baitapnhom3/23WEBC_NHOM7_BAI3/23WEBC_NHOM7_BAI3/BT3/TachLayout/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-efzn8rd8ua

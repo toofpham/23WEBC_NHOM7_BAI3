@@ -44,13 +44,22 @@
 
 <body>
 
+    <!-- Toàn bộ nội dung trang -->
     <div id="wrapper">
 
-        <!-- Navigation -->
+        <!-- Thanh điều hướng chính - Navigation -->
         <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+
+            <!-- Header (logo, brand, toggle button) -->
             @Html.Partial("_NavHeader")
+
+            <!-- Thanh liên kết trên cùng (user, logout, thông báo, v.v.) -->
             @Html.Partial("_NavTopLink")
+
+             <!-- Thanh sidebar bên trái -->
             @Html.Partial("_NavStaticSide")
+
+            <!-- Lấy tên admin từ session -->
             @using Microsoft.AspNetCore.Http
             @inject IHttpContextAccessor HttpContextAccessor
             @{
@@ -58,31 +67,25 @@
             }
        </nav>
 
-
+       <!-- Nội dung trang chính -->
         <div id="page-wrapper">
             <div class="row">
                 <div class="col-lg-12">
+                    <!-- Tiêu đề trang con -->
                     <h1 class="page-header">@RenderSection("Title")</h1>
                 </div>
-                <!-- /.col-lg-12 -->
             </div>
 
-            <!-- /.row -->
+             <!-- Khu vực hiển thị nội dung chính -->
             <div class="row">
                 @RenderBody()
             </div>
-            <!-- /.row -->
         </div>
-        <!-- /#page-wrapper -->
-
     </div>
-    <!-- /#wrapper -->
+     <!-- /#wrapper -->
 
 
-
-
-
-
+    <!-- Các file JavaScript -->
     <!-- jQuery -->
     <script src="../bower_components/jquery/dist/jquery.min.js"></script>
 

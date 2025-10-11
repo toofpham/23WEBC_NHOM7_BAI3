@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Đăng ký tài khoản";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="~/css/account.css" />
+
+<div class="register-container">
+    <h2>Đăng ký tài khoản</h2>
+
+    <form method="post" action="/account/register" class="register-form">
+        <div class="form-group">
+            <label for="username">Tên đăng nhập</label>
+            <input type="text" id="username" name="username" placeholder="Nhập tên đăng nhập..." required />
+        </div>
+
+        <div class="form-group">
+            <label for="pass">Mật khẩu</label>
+            <input type="password" id="pass" name="pass" placeholder="Nhập mật khẩu..." required />
+        </div>
+
+        <div class="form-group">
+            <label for="confirmPass">Nhập lại mật khẩu</label>
+            <input type="password" id="confirmPass" name="confirmPass" placeholder="Nhập lại mật khẩu..." required />
+        </div>
+
+        <button type="submit" class="btn-register">Đăng ký</button>
+    </form>
+
+    @if (ViewBag.Error != null)
+    {
+        <p class="error-msg">@ViewBag.Error</p>
+    }
+
+    @if (TempData["Success"] != null)
+    {
+        <p class="success-msg">@TempData["Success"]</p>
+    }
+
+    <p class="register-link">
+        Đã có tài khoản? <a href="/account/login">Đăng nhập ngay</a>
+    </p>
+</div>

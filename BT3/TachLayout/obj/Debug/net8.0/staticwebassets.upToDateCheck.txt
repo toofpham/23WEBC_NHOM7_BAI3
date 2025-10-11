@@ -3,9 +3,13 @@ wwwroot\bower.json
 wwwroot\checkout.html
 wwwroot\composer.json
 wwwroot\contact.html
+wwwroot\css\account.css
+wwwroot\css\auth-section.css
 wwwroot\css\ddsmoothmenu.css
+wwwroot\css\login.css
 wwwroot\css\nivo-slider.css
 wwwroot\css\orman.css
+wwwroot\css\site.css
 wwwroot\css\slimbox2.css
 wwwroot\dist\css\sb-admin-2.css
 wwwroot\dist\css\timeline.css
@@ -49,6 +53,7 @@ wwwroot\images\product\08.jpg
 wwwroot\images\product\08_l.jpg
 wwwroot\images\product\image_01.jpg
 wwwroot\images\product\image_01_l.jpg
+wwwroot\images\product\Screenshot 2025-10-02 225814.png
 wwwroot\images\remove.png
 wwwroot\images\ribbon.png
 wwwroot\images\search_bg.png
@@ -120,6 +125,7 @@ wwwroot\products.html
 wwwroot\shoppingcart.html
 wwwroot\templatemo_style.css
 wwwroot\test.html
+wwwroot\uploads\logo\0c2fda0d-4d90-411e-be31-3f231a39cb2d.png
 wwwroot\uploads\logo\3be997b4-d6e7-439a-8b66-6ccafa8028f9.jpg
 wwwroot\uploads\logo\49d74293-61fb-4641-b9a3-672f61d4910a.jpg
 wwwroot\uploads\logo\4c4e2c4b-1c87-4a8d-a8ce-1148bc79f3a3.jpg

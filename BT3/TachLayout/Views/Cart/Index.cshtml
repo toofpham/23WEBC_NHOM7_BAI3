@@ -108,9 +108,39 @@
             </table>
 
             <div class="cleaner h20"></div>
+            <div class="cleaner h20"></div>
+            <div class="cleaner h20"></div>
             <div class="right">
-                <a href="@Url.Action("Checkout", "Cart")" class="button">Thanh toán</a>
+                @{
+                    var userID = Context.Session.GetInt32("UserID");
+                    var username = Context.Session.GetString("Username");
+
+                    
+                }
+
+                @if (userID != null)
+                {
+                    <div style="margin-bottom: 10px;">
+                        <small>Xin chào: <strong>@username</strong></small>
+                    </div>
+                    <form method="post" action="@Url.Action("Checkout", "Cart")" style="display: inline;">
+                        <button type="submit" class="button"
+                                onclick="return confirm('Xác nhận thanh toán đơn hàng?')">
+                            Thanh toán ngay
+                        </button>
+                    </form>
+                }
+                else
+                {
+                    <div style="margin-bottom: 10px;">
+                        <small><em>Chưa đăng nhập</em></small>
+                    </div>
+                    <a href="@Url.Action("Login", "Account")" class="button" style="background: #dc3545;">
+                        Thanh Toán
+                    </a>
+                }
             </div>
+
             <div class="cleaner h20"></div>
             <div class="blank_box">
                 <a href="#"><img src="images/free_shipping.jpg" alt="Free Shipping" /></a>
