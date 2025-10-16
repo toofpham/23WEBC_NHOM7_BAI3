@@ -1,32 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj": {}
+    "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj": {}
   },
   "projects": {
-    "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj": {
+    "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
+        "projectUniqueName": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
         "projectName": "TachLayout",
-        "projectPath": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\",
+        "projectPath": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
+        "packagesPath": "C:\\Users\\nhatl\\.nuget\\packages\\",
+        "outputPath": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nhatl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -34,11 +38,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.Data.SqlClient": {
               "target": "Package",
@@ -64,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

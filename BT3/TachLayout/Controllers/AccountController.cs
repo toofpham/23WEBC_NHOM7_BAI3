@@ -17,7 +17,7 @@ namespace TachLayout.Controllers
             _db = db;
         }
 
-        // ========== GET: /account/register ==========
+        
         [HttpGet("register")]
         public IActionResult Register()
         {
@@ -25,7 +25,7 @@ namespace TachLayout.Controllers
             return View();
         }
 
-        // ========== POST: /account/register ==========
+        
         [HttpPost("register")]
         public IActionResult Register(string username, string pass, string confirmPass)
         {
@@ -58,12 +58,11 @@ namespace TachLayout.Controllers
                     return View();
                 }
 
-                // TẠM THỜI: Thêm user với UserID thủ công
-                string insertSql = @"INSERT INTO [User] (UserID, UserName, Pass, TrangThai, Role)
-                             VALUES (@UserID, @UserName, @Pass, 1, 'Customer')";
+                
+                string insertSql = @"INSERT INTO [User] ( UserName, Pass, TrangThai, Role)
+                             VALUES ( @UserName, @Pass, 1, 'Customer')";
                 var insertParams = new[]
                 {
-            new SqlParameter("@UserID", nextUserID),
             new SqlParameter("@UserName", username),
             new SqlParameter("@Pass", pass)
         };

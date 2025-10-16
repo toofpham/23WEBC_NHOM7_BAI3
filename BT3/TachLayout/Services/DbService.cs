@@ -16,7 +16,6 @@ namespace TachLayout.Services
                 ?? throw new ArgumentNullException(nameof(configuration), "Chuỗi kết nối không được tìm thấy.");
         }
 
-        // Lấy dữ liệu trả về DataTable
         public DataTable GetDataTable(string sql, SqlParameter[]? parameters = null)
         {
             DataTable dt = new DataTable();
@@ -48,8 +47,7 @@ namespace TachLayout.Services
             }
         }
 
-        // Thực thi Insert/Update/Delete
-        public int ExecuteNonQuery(string sql, SqlParameter[]? parameters = null)
+         public int ExecuteNonQuery(string sql, SqlParameter[]? parameters = null)
         {
             try
             {
@@ -75,8 +73,7 @@ namespace TachLayout.Services
             }
         }
 
-        // Lấy 1 giá trị duy nhất (COUNT, SUM,...)
-        public object? ExecuteScalar(string sql, SqlParameter[]? parameters = null)
+         public object? ExecuteScalar(string sql, SqlParameter[]? parameters = null)
         {
             try
             {

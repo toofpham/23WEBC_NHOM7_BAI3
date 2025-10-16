@@ -954,6 +954,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\08_l.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\astro-bot-2k-wallpaper-uhdpaper.com-188@2@b.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>TachLayout</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TachLayout</BasePath>
+      <RelativePath>images/product/astro-bot-2k-wallpaper-uhdpaper.com-188@2@b.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dzhv5ca5cw</Fingerprint>
+      <Integrity>N96PVjcPkyT5JntTfvI8FsvPXtru6jgaT+NszAWdE40=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\astro-bot-2k-wallpaper-uhdpaper.com-188@2@b.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\hulk-4k-wallpaper-uhdpaper.com-534@5@h.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>TachLayout</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TachLayout</BasePath>
+      <RelativePath>images/product/hulk-4k-wallpaper-uhdpaper.com-534@5@h.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>0ufm1876n1</Fingerprint>
+      <Integrity>qKr4AQtC1BxuE1ftX/VwWGrslNbO96oGljYgIXxp2kU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\hulk-4k-wallpaper-uhdpaper.com-534@5@h.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\image_01.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>TachLayout</SourceId>
@@ -2322,6 +2358,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\logo\0c2fda0d-4d90-411e-be31-3f231a39cb2d.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\logo\32f6d846-d150-4bce-8fcd-f93393101116.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>TachLayout</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TachLayout</BasePath>
+      <RelativePath>uploads/logo/32f6d846-d150-4bce-8fcd-f93393101116.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dzhv5ca5cw</Fingerprint>
+      <Integrity>N96PVjcPkyT5JntTfvI8FsvPXtru6jgaT+NszAWdE40=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\logo\32f6d846-d150-4bce-8fcd-f93393101116.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\logo\3be997b4-d6e7-439a-8b66-6ccafa8028f9.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>TachLayout</SourceId>
@@ -2393,6 +2447,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\logo\653dd144-f24b-420f-9bf4-1fb5e3b0b712.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\logo\7bbb97e4-38f8-4b0b-9f1d-3b56c3726ea9.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>TachLayout</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TachLayout</BasePath>
+      <RelativePath>uploads/logo/7bbb97e4-38f8-4b0b-9f1d-3b56c3726ea9.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dzhv5ca5cw</Fingerprint>
+      <Integrity>N96PVjcPkyT5JntTfvI8FsvPXtru6jgaT+NszAWdE40=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\logo\7bbb97e4-38f8-4b0b-9f1d-3b56c3726ea9.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\logo\81fdf53b-9fd0-45ad-ad43-b94bcc96e398.jpg'))">
       <SourceType>Package</SourceType>

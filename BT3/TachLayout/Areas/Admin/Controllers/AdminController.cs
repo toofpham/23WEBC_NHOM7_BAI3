@@ -19,38 +19,33 @@ public class AdminController : Controller
         _configuration = configuration;
     }
 
-    // ----- DASHBOARD (chỉ menu + thông báo) -----
+    
     [HttpGet("")]
     [HttpGet("Index")]
     [AdminAuthorize]
     public IActionResult Index()
     {
         ViewData["Title"] = "Admin - Quản trị";
-        // Dashboard chỉ cần hiển thị menu / thông báo -> không cần chuyền dữ liệu đơn hàng
-        return View("~/Areas/Admin/Views/Admin/Index.cshtml"); // file view mới Dashboard.cshtml
+       
+        return View("~/Areas/Admin/Views/Admin/Index.cshtml"); 
     }
 
-    // ----- DANH SÁCH ĐƠN HÀNG (tách riêng) -----
     [HttpGet("DonHang")]
     [AdminAuthorize]
     public IActionResult DonHang()
     {
         ViewData["Title"] = "Quản lý Đơn Hàng";
 
-        // Lấy danh sách đơn hàng chờ xác nhận
-        DataTable donHangChoXacNhan = GetDonHangByStatus("Chờ xác nhận");
+                DataTable donHangChoXacNhan = GetDonHangByStatus("Chờ xác nhận");
 
-        // Lấy danh sách đơn hàng đã xác nhận
-        DataTable donHangDaXacNhan = GetDonHangByStatus("Đã xác nhận");
+                DataTable donHangDaXacNhan = GetDonHangByStatus("Đã xác nhận");
 
         ViewData["DonHangChoXacNhan"] = donHangChoXacNhan;
         ViewData["DonHangDaXacNhan"] = donHangDaXacNhan;
 
-        return View("~/Areas/Admin/Views/Admin/DonHang.cshtml"); // file view mới DonHang.cshtml
-    }
+        return View("~/Areas/Admin/Views/Admin/DonHang.cshtml");     }
 
-    // ----- POST: xác nhận đơn hàng -----
-    [HttpPost]
+        [HttpPost]
     [ValidateAntiForgeryToken]
     [Route("XacNhanDonHang")]
     public IActionResult XacNhanDonHang(int maHD)
@@ -65,12 +60,10 @@ public class AdminController : Controller
             TempData["ErrorMessage"] = $"Lỗi khi xác nhận đơn hàng: {ex.Message}";
         }
 
-        // Chuyển về trang danh sách đơn hàng
-        return RedirectToAction("DonHang");
+                return RedirectToAction("DonHang");
     }
 
-    // ----- POST: huỷ đơn hàng -----
-    [HttpPost]
+        [HttpPost]
     [ValidateAntiForgeryToken]
     [Route("HuyDonHang")]
     public IActionResult HuyDonHang(int maHD)
@@ -85,12 +78,10 @@ public class AdminController : Controller
             TempData["ErrorMessage"] = $"Lỗi khi hủy đơn hàng: {ex.Message}";
         }
 
-        // Chuyển về trang danh sách đơn hàng
-        return RedirectToAction("DonHang");
+                return RedirectToAction("DonHang");
     }
 
-    // ----- Helpers (giữ nguyên) -----
-    private DataTable GetDonHangByStatus(string trangThai)
+        private DataTable GetDonHangByStatus(string trangThai)
     {
         DataTable dt = new DataTable();
         using (SqlConnection conn = new SqlConnection(_configuration.GetConnectionString("QuanLyConn")))
@@ -132,15 +123,13 @@ public class AdminController : Controller
         }
     }
 
-    // GET: /Admin/ChiTietDonHang/{maHD}
-    [HttpGet("ChiTietDonHang/{maHD}")]
+        [HttpGet("ChiTietDonHang/{maHD}")]
     [AdminAuthorize]
     public IActionResult ChiTietDonHang(int maHD)
     {
         ViewData["Title"] = $"Chi tiết đơn hàng #{maHD}";
 
-        // Lấy thông tin hóa đơn (header)
-        DataTable dtHeader = new DataTable();
+                DataTable dtHeader = new DataTable();
         using (SqlConnection conn = new SqlConnection(_configuration.GetConnectionString("QuanLyConn")))
         {
             string qHeader = @"
@@ -154,8 +143,7 @@ public class AdminController : Controller
             da.Fill(dtHeader);
         }
 
-        // Lấy chi tiết hóa đơn (sản phẩm)
-        DataTable dtItems = new DataTable();
+                DataTable dtItems = new DataTable();
         using (SqlConnection conn = new SqlConnection(_configuration.GetConnectionString("QuanLyConn")))
         {
             string qItems = @"
@@ -175,9 +163,7 @@ public class AdminController : Controller
             return RedirectToAction("DonHang");
         }
 
-        ViewData["HoaDon"] = dtHeader.Rows[0];   // 1 dòng header
-        ViewData["ChiTietHoaDon"] = dtItems;     // nhiều dòng chi tiết
-
+        ViewData["HoaDon"] = dtHeader.Rows[0];           ViewData["ChiTietHoaDon"] = dtItems;     
         return View("~/Areas/Admin/Views/Admin/ChiTietDonHang.cshtml");
     }
 
