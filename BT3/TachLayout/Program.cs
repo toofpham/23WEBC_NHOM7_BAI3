@@ -2,6 +2,9 @@ using TachLayout.Models;
 using System;
 using Microsoft.Data.SqlClient;
 using TachLayout.Services;
+using Microsoft.EntityFrameworkCore;
+using TachLayout.Data;
+
 namespace TachLayout
 {
     public class Program
@@ -10,7 +13,13 @@ namespace TachLayout
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            // ---- ??ng ký ApplicationDbContext ----
+            builder.Services.AddDbContext<TachLayout.Data.AppDbContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("QuanLyConn")));
+
             builder.Services.AddSingleton<DbService>();
+            // ---- ??ng ký WebSettingService v?i scoped lifetime ----
+            builder.Services.AddScoped<WebSettingService>();
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();

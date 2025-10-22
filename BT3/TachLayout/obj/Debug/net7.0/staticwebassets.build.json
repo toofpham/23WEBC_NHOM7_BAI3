@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "l7F66tRqSpe2IQZ7ejutpxRCtr7iLEH5Wi84gbzPI5o=",
+  "Hash": "+4JvhVm3vvX0XWyZyUR7q6FHeqYKzsLfSybPsM2BQBU=",
   "Source": "TachLayout",
   "BasePath": "_content/TachLayout",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TachLayout\\wwwroot",
       "Source": "TachLayout",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TachLayout.styles.css",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TachLayout.styles.css",
       "SourceId": "TachLayout",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "TachLayout.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TachLayout.styles.css"
+      "OriginalItemSpec": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TachLayout.styles.css"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TachLayout.bundle.scp.css",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TachLayout.bundle.scp.css",
       "SourceId": "TachLayout",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "TachLayout.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TachLayout.bundle.scp.css"
+      "OriginalItemSpec": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TachLayout.bundle.scp.css"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\about.html",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\about.html",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "about.html",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\about.html"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\bower.json",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\bower.json",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "bower.json",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\bower.json"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\composer.json",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\composer.json",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "composer.json",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\composer.json"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\contact.html",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\contact.html",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "contact.html",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\contact.html"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\account.css",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\account.css",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "css/account.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\account.css"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\auth-section.css",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\auth-section.css",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "css/auth-section.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\auth-section.css"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\ddsmoothmenu.css",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\ddsmoothmenu.css",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "css/ddsmoothmenu.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\ddsmoothmenu.css"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\login.css",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\login.css",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\nivo-slider.css",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\nivo-slider.css",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "css/nivo-slider.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\nivo-slider.css"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\orman.css",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\orman.css",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "css/orman.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\orman.css"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\site.css",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\site.css",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\slimbox2.css",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\css\\slimbox2.css",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "css/slimbox2.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\slimbox2.css"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\checkout.html",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\checkout.html",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "checkout.html",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\checkout.html"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\dist\\css\\sb-admin-2.css",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\dist\\css\\sb-admin-2.css",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "dist/css/sb-admin-2.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\css\\sb-admin-2.css"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\dist\\css\\timeline.css",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\dist\\css\\timeline.css",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "dist/css/timeline.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\css\\timeline.css"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\dist\\js\\sb-admin-2.js",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\dist\\js\\sb-admin-2.js",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "dist/js/sb-admin-2.js",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\js\\sb-admin-2.js"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\faqs.html",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\faqs.html",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "faqs.html",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\faqs.html"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\1311260370_paypal-straight.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\1311260370_paypal-straight.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/1311260370_paypal-straight.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1311260370_paypal-straight.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\1311260374_mastercard-straight.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\1311260374_mastercard-straight.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/1311260374_mastercard-straight.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1311260374_mastercard-straight.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\1311260374_visa-straight.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\1311260374_visa-straight.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/1311260374_visa-straight.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1311260374_visa-straight.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\addtocart.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\addtocart.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/addtocart.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\addtocart.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\arrows.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\arrows.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/arrows.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\arrows.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\bullets.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\bullets.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/bullets.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bullets.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\closelabel.gif",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\closelabel.gif",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/closelabel.gif",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\closelabel.gif"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\flagship.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\flagship.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/flagship.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\flagship.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\free_shipping.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\free_shipping.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/free_shipping.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\free_shipping.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\image_01.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\image_01.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/image_01.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\image_01.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\loading.gif",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\loading.gif",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/loading.gif",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\loading.gif"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\Lotus_zhaoyang.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\Lotus_zhaoyang.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/Lotus_zhaoyang.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Lotus_zhaoyang.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\menu_hover.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\menu_hover.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/menu_hover.png",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\menu_hover.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\nextlabel.gif",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\nextlabel.gif",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/nextlabel.gif",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\nextlabel.gif"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\01.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\01.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/portfolio/01.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio\\01.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\02.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\02.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/portfolio/02.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio\\02.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\03.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\03.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/portfolio/03.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio\\03.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\04.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\04.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/portfolio/04.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio\\04.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\05.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\portfolio\\05.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/portfolio/05.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portfolio\\05.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\prevlabel.gif",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\prevlabel.gif",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/prevlabel.gif",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prevlabel.gif"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\01.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\01.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/01.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\01.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\01_l.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\01_l.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/01_l.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\01_l.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\02.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\02.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/02.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\02.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\02_l.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\02_l.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/02_l.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\02_l.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\03.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\03.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/03.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\03.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\03_l.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\03_l.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/03_l.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\03_l.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\04.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\04.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/04.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\04.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\04_l.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\04_l.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/04_l.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\04_l.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\05.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\05.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/05.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\05.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\05_l.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\05_l.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/05_l.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\05_l.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\06.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\06.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/06.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\06.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\06_l.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\06_l.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/06_l.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\06_l.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\07.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\07.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/07.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\07.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\07_l.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\07_l.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/07_l.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\07_l.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\08.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\08.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/08.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\08.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\08_l.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\08_l.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/08_l.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\08_l.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\astro-bot-2k-wallpaper-uhdpaper.com-188@2@b.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\astro-bot-2k-wallpaper-uhdpaper.com-188@2@b.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/astro-bot-2k-wallpaper-uhdpaper.com-188@2@b.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\astro-bot-2k-wallpaper-uhdpaper.com-188@2@b.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\hulk-4k-wallpaper-uhdpaper.com-534@5@h.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\hulk-4k-wallpaper-uhdpaper.com-534@5@h.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/hulk-4k-wallpaper-uhdpaper.com-534@5@h.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\hulk-4k-wallpaper-uhdpaper.com-534@5@h.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\image_01.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\image_01.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/image_01.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\image_01.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\image_01_l.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\image_01_l.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/image_01_l.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\image_01_l.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\Screenshot 2025-10-02 225814.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\product\\Screenshot 2025-10-02 225814.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/product/Screenshot 2025-10-02 225814.png",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\Screenshot 2025-10-02 225814.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\remove.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\remove.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/remove.png",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\images\\remove.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\ribbon.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\ribbon.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/ribbon.png",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ribbon.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\search_bg.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\search_bg.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/search_bg.png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\search_bg.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_btn.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_btn.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/templatemo_btn.png",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\images\\templatemo_btn.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_footer.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_footer.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/templatemo_footer.png",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\templatemo_footer.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_h2.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_h2.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/templatemo_h2.png",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\templatemo_h2.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_header.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_header.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/templatemo_header.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\templatemo_header.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_header.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_header.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/templatemo_header.png",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\templatemo_header.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_header_subpage.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_header_subpage.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/templatemo_header_subpage.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\templatemo_header_subpage.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_headerrepeat.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_headerrepeat.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/templatemo_headerrepeat.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\templatemo_headerrepeat.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_headerrepeat_subpage.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_headerrepeat_subpage.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/templatemo_headerrepeat_subpage.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\images\\templatemo_headerrepeat_subpage.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_image_01.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_image_01.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/templatemo_image_01.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\templatemo_image_01.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_list.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_list.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/templatemo_list.png",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\templatemo_list.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_logo.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_logo.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/templatemo_logo.png",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\images\\templatemo_logo.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_main.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_main.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/templatemo_main.png",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\images\\templatemo_main.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_menu.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_menu.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/templatemo_menu.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\templatemo_menu.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_sbbg.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_sbbg.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/templatemo_sbbg.png",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\images\\templatemo_sbbg.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_sbbgb.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_sbbgb.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/templatemo_sbbgb.png",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\images\\templatemo_sbbgb.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_sbheader.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_sbheader.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/templatemo_sbheader.png",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\images\\templatemo_sbheader.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_sliderbg.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\images\\templatemo_sliderbg.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "images/templatemo_sliderbg.png",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\images\\templatemo_sliderbg.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\index.html",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\index.html",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\ddsmoothmenu.js",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\ddsmoothmenu.js",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "js/ddsmoothmenu.js",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\js\\ddsmoothmenu.js"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\flot-data.js",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\flot-data.js",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "js/flot-data.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\js\\flot-data.js"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\jquery.min.js",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\jquery.min.js",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\jquery.nivo.slider.js",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\jquery.nivo.slider.js",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "js/jquery.nivo.slider.js",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.nivo.slider.js"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\jquery.nivo.slider.pack.js",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\jquery.nivo.slider.pack.js",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "js/jquery.nivo.slider.pack.js",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.nivo.slider.pack.js"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\jquery-1.6.1.min.js",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\jquery-1.6.1.min.js",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "js/jquery-1.6.1.min.js",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-1.6.1.min.js"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\morris-data.js",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\morris-data.js",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "js/morris-data.js",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\js\\morris-data.js"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\slimbox2.js",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\js\\slimbox2.js",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "js/slimbox2.js",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\js\\slimbox2.js"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\less\\index.html",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\less\\index.html",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "less/index.html",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\less\\index.html"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\less\\mixins.less",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\less\\mixins.less",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "less/mixins.less",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\less\\mixins.less"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\less\\sb-admin-2.less",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\less\\sb-admin-2.less",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "less/sb-admin-2.less",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\less\\sb-admin-2.less"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\less\\variables.less",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\less\\variables.less",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "less/variables.less",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\less\\variables.less"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\LICENSE",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\LICENSE",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "LICENSE",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\LICENSE"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\demo.html",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\demo.html",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/demo/demo.html",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\demo\\demo.html"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\dev7logo.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\dev7logo.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/demo/images/dev7logo.png",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\demo\\images\\dev7logo.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\nemo.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\nemo.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/demo/images/nemo.jpg",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\demo\\images\\nemo.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\toystory.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\toystory.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/demo/images/toystory.jpg",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\demo\\images\\toystory.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\up.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\up.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/demo/images/up.jpg",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\demo\\images\\up.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\walle.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\images\\walle.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/demo/images/walle.jpg",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\demo\\images\\walle.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\scripts\\jquery-1.6.1.min.js",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\scripts\\jquery-1.6.1.min.js",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/demo/scripts/jquery-1.6.1.min.js",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\demo\\scripts\\jquery-1.6.1.min.js"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\style.css",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\demo\\style.css",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/demo/style.css",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\demo\\style.css"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\jquery.nivo.slider.js",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\jquery.nivo.slider.js",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/jquery.nivo.slider.js",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\jquery.nivo.slider.js"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\jquery.nivo.slider.pack.js",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\jquery.nivo.slider.pack.js",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/jquery.nivo.slider.pack.js",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\jquery.nivo.slider.pack.js"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\license.txt",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\license.txt",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/license.txt",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\license.txt"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\nivo-slider.css",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\nivo-slider.css",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/nivo-slider.css",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\nivo-slider.css"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\README",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\README",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/README",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\README"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\arrows.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\arrows.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/themes/default/arrows.png",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\themes\\default\\arrows.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\bullets.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\bullets.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/themes/default/bullets.png",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\themes\\default\\bullets.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\default.css",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\default.css",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/themes/default/default.css",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\themes\\default\\default.css"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\loading.gif",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\default\\loading.gif",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/themes/default/loading.gif",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\themes\\default\\loading.gif"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\arrows.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\arrows.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/themes/orman/arrows.png",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\themes\\orman\\arrows.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\bullets.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\bullets.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/themes/orman/bullets.png",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\themes\\orman\\bullets.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\loading.gif",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\loading.gif",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/themes/orman/loading.gif",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\themes\\orman\\loading.gif"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\orman.css",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\orman.css",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/themes/orman/orman.css",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\themes\\orman\\orman.css"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\readme.txt",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\readme.txt",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/themes/orman/readme.txt",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\themes\\orman\\readme.txt"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\ribbon.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\ribbon.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/themes/orman/ribbon.png",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\themes\\orman\\ribbon.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\slider.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\orman\\slider.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/themes/orman/slider.png",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\themes\\orman\\slider.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\bullets.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\bullets.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/themes/pascal/bullets.png",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\themes\\pascal\\bullets.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\controlnav.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\controlnav.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/themes/pascal/controlnav.png",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\themes\\pascal\\controlnav.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\featured.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\featured.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/themes/pascal/featured.png",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\themes\\pascal\\featured.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\loading.gif",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\loading.gif",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/themes/pascal/loading.gif",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\themes\\pascal\\loading.gif"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\pascal.css",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\pascal.css",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/themes/pascal/pascal.css",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\themes\\pascal\\pascal.css"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\readme.txt",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\readme.txt",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/themes/pascal/readme.txt",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\themes\\pascal\\readme.txt"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\ribbon.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\ribbon.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/themes/pascal/ribbon.png",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\themes\\pascal\\ribbon.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\slider.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\nivo-slider\\themes\\pascal\\slider.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "nivo-slider/themes/pascal/slider.png",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\nivo-slider\\themes\\pascal\\slider.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\productdetail.html",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\productdetail.html",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "productdetail.html",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\productdetail.html"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\products.html",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\products.html",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "products.html",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\products.html"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\shoppingcart.html",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\shoppingcart.html",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "shoppingcart.html",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\shoppingcart.html"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\templatemo_style.css",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\templatemo_style.css",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "templatemo_style.css",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_style.css"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\test.html",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\test.html",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "test.html",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\test.html"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\0c2fda0d-4d90-411e-be31-3f231a39cb2d.png",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\0c2fda0d-4d90-411e-be31-3f231a39cb2d.png",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "uploads/logo/0c2fda0d-4d90-411e-be31-3f231a39cb2d.png",
       "AssetKind": "All",
@@ -2261,10 +2261,27 @@
       "OriginalItemSpec": "wwwroot\\uploads\\logo\\0c2fda0d-4d90-411e-be31-3f231a39cb2d.png"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\32f6d846-d150-4bce-8fcd-f93393101116.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\0f722fdc-9641-4fcb-8592-9e914978d660.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "BasePath": "_content/TachLayout",
+      "RelativePath": "uploads/logo/0f722fdc-9641-4fcb-8592-9e914978d660.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\logo\\0f722fdc-9641-4fcb-8592-9e914978d660.jpg"
+    },
+    {
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\32f6d846-d150-4bce-8fcd-f93393101116.jpg",
+      "SourceId": "TachLayout",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "uploads/logo/32f6d846-d150-4bce-8fcd-f93393101116.jpg",
       "AssetKind": "All",
@@ -2278,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\logo\\32f6d846-d150-4bce-8fcd-f93393101116.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\3be997b4-d6e7-439a-8b66-6ccafa8028f9.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\3be997b4-d6e7-439a-8b66-6ccafa8028f9.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "uploads/logo/3be997b4-d6e7-439a-8b66-6ccafa8028f9.jpg",
       "AssetKind": "All",
@@ -2295,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\logo\\3be997b4-d6e7-439a-8b66-6ccafa8028f9.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\49d74293-61fb-4641-b9a3-672f61d4910a.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\49d74293-61fb-4641-b9a3-672f61d4910a.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "uploads/logo/49d74293-61fb-4641-b9a3-672f61d4910a.jpg",
       "AssetKind": "All",
@@ -2312,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\logo\\49d74293-61fb-4641-b9a3-672f61d4910a.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\4c4e2c4b-1c87-4a8d-a8ce-1148bc79f3a3.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\4c4e2c4b-1c87-4a8d-a8ce-1148bc79f3a3.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "uploads/logo/4c4e2c4b-1c87-4a8d-a8ce-1148bc79f3a3.jpg",
       "AssetKind": "All",
@@ -2329,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\logo\\4c4e2c4b-1c87-4a8d-a8ce-1148bc79f3a3.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\653dd144-f24b-420f-9bf4-1fb5e3b0b712.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\653dd144-f24b-420f-9bf4-1fb5e3b0b712.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "uploads/logo/653dd144-f24b-420f-9bf4-1fb5e3b0b712.jpg",
       "AssetKind": "All",
@@ -2346,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\logo\\653dd144-f24b-420f-9bf4-1fb5e3b0b712.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\7bbb97e4-38f8-4b0b-9f1d-3b56c3726ea9.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\7bbb97e4-38f8-4b0b-9f1d-3b56c3726ea9.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "uploads/logo/7bbb97e4-38f8-4b0b-9f1d-3b56c3726ea9.jpg",
       "AssetKind": "All",
@@ -2363,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\logo\\7bbb97e4-38f8-4b0b-9f1d-3b56c3726ea9.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\81fdf53b-9fd0-45ad-ad43-b94bcc96e398.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\81fdf53b-9fd0-45ad-ad43-b94bcc96e398.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "uploads/logo/81fdf53b-9fd0-45ad-ad43-b94bcc96e398.jpg",
       "AssetKind": "All",
@@ -2380,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\logo\\81fdf53b-9fd0-45ad-ad43-b94bcc96e398.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\89f18a66-832d-4abf-bcc3-f15e5e55ea07.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\89f18a66-832d-4abf-bcc3-f15e5e55ea07.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "uploads/logo/89f18a66-832d-4abf-bcc3-f15e5e55ea07.jpg",
       "AssetKind": "All",
@@ -2397,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\logo\\89f18a66-832d-4abf-bcc3-f15e5e55ea07.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\9a3b0178-8862-4331-9e15-d213bffab302.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\9a3b0178-8862-4331-9e15-d213bffab302.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "uploads/logo/9a3b0178-8862-4331-9e15-d213bffab302.jpg",
       "AssetKind": "All",
@@ -2414,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\logo\\9a3b0178-8862-4331-9e15-d213bffab302.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\a02bcf46-676b-40bd-843e-deab2873c7b9.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\a02bcf46-676b-40bd-843e-deab2873c7b9.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "uploads/logo/a02bcf46-676b-40bd-843e-deab2873c7b9.jpg",
       "AssetKind": "All",
@@ -2431,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\logo\\a02bcf46-676b-40bd-843e-deab2873c7b9.jpg"
     },
     {
-      "Identity": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\f44cede0-d7eb-4764-b02e-9a025df46e0a.jpg",
+      "Identity": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\uploads\\logo\\f44cede0-d7eb-4764-b02e-9a025df46e0a.jpg",
       "SourceId": "TachLayout",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
+      "ContentRoot": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\wwwroot\\",
       "BasePath": "_content/TachLayout",
       "RelativePath": "uploads/logo/f44cede0-d7eb-4764-b02e-9a025df46e0a.jpg",
       "AssetKind": "All",

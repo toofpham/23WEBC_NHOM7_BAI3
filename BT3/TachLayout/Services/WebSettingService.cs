@@ -1,57 +1,41 @@
 ﻿using System.Data;
 using Microsoft.Data.SqlClient;
 using TachLayout.Models;
+using TachLayout.Data;
 
 namespace TachLayout.Services
 {
     public class WebSettingService
     {
-        private readonly string _connectionString;
+        private readonly AppDbContext _context;
 
-        public WebSettingService(string connectionString)
+        public WebSettingService(AppDbContext context)
         {
-            _connectionString = connectionString;
+            _context = context;
         }
 
+        // ---- Lấy setting ----
         public WebSetting GetWebSetting()
         {
-            WebSetting setting = null;
-            using (SqlConnection conn = new SqlConnection(_connectionString))
-            {
-                string sql = "SELECT TOP 1 * FROM WebSetting";
-                SqlCommand cmd = new SqlCommand(sql, conn);
-                conn.Open();
-                SqlDataReader reader = cmd.ExecuteReader();
-                if (reader.Read())
-                {
-                    setting = new WebSetting
-                    {
-                        WebSettingID = (int)reader["WebSettingID"],
-                        Logo = reader["Logo"].ToString(),
-                        TenSite = reader["TenSite"].ToString(),
-                        DiaChi = reader["DiaChi"].ToString(),
-                        Email = reader["Email"].ToString(),
-                        HotLine = reader["HotLine"].ToString()
-                    };
-                }
-            }
-            return setting;
+            return _context.WebSettings.FirstOrDefault();
         }
 
+        // ---- Cập nhật setting ----
         public void UpdateWebSetting(WebSetting model)
         {
-            using (SqlConnection conn = new SqlConnection(_connectionString))
+            // ---- Sử dụng Linq FirstOrDefault ----
+            var existing = _context.WebSettings.FirstOrDefault();
+            if(existing != model)
             {
-                string sql = @"UPDATE WebSetting 
-                               SET Logo = @Logo, TenSite = @TenSite, DiaChi = @DiaChi, Email = @Email, HotLine = @HotLine";
-                SqlCommand cmd = new SqlCommand(sql, conn);
-                cmd.Parameters.AddWithValue("@Logo", model.Logo ?? "");
-                cmd.Parameters.AddWithValue("@TenSite", model.TenSite ?? "");
-                cmd.Parameters.AddWithValue("@DiaChi", model.DiaChi ?? "");
-                cmd.Parameters.AddWithValue("@Email", model.Email ?? "");
-                cmd.Parameters.AddWithValue("@HotLine", model.HotLine ?? "");
-                conn.Open();
-                cmd.ExecuteNonQuery();
+                // ---- Cập nhật các trường ----
+                existing.TenSite = model.TenSite;
+                existing.Logo = model.Logo;
+                existing.DiaChi = model.DiaChi;
+                existing.Email = model.Email;
+                existing.HotLine = model.HotLine;
+
+                // ---- Lưu thay đổi vào DB ----
+                _context.SaveChanges();
             }
         }
     }

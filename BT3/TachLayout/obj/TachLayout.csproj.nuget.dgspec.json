@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj": {}
+    "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj": {}
   },
   "projects": {
-    "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj": {
+    "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
+        "projectUniqueName": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
         "projectName": "TachLayout",
-        "projectPath": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
+        "projectPath": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\TachLayout.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "E:\\hoctap\\ASP\\ProTeam_BT3_Backup\\Git_02\\23WEBC_NHOM7_BAI3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\",
+        "outputPath": "E:\\hoctap\\ASP\\Project04_CaNhan\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,20 @@
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[5.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
