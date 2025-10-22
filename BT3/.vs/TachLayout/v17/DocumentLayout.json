@@ -7,44 +7,32 @@
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\services\\websettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\services\\websettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\areas\\admin\\viewcomponents\\websettingviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\areas\\admin\\viewcomponents\\websettingviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\filters\\adminauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\filters\\adminauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,156 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DbService.cs",
-              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Services\\DbService.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Services\\DbService.cs",
-              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Services\\DbService.cs",
-              "RelativeToolTip": "TachLayout\\Services\\DbService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA7wB4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T10:02:56.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WebSettingService.cs",
-              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Services\\WebSettingService.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Services\\WebSettingService.cs",
-              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Services\\WebSettingService.cs",
-              "RelativeToolTip": "TachLayout\\Services\\WebSettingService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T10:02:42.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WebSettingViewComponent.cs",
-              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\ViewComponents\\WebSettingViewComponent.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Areas\\Admin\\ViewComponents\\WebSettingViewComponent.cs",
-              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\ViewComponents\\WebSettingViewComponent.cs",
-              "RelativeToolTip": "TachLayout\\Areas\\Admin\\ViewComponents\\WebSettingViewComponent.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA3wAkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T09:17:29.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Areas\\Admin\\Controllers\\AdminController.cs",
-              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Areas\\Admin\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "TachLayout\\Areas\\Admin\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T09:16:40.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdminAuthorizeAttribute.cs",
-              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Filters\\AdminAuthorizeAttribute.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Filters\\AdminAuthorizeAttribute.cs",
-              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Filters\\AdminAuthorizeAttribute.cs",
-              "RelativeToolTip": "TachLayout\\Filters\\AdminAuthorizeAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T09:16:14.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "TachLayout\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T09:16:05.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SessionExtensions.cs",
-              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Extensions\\SessionExtensions.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Extensions\\SessionExtensions.cs",
-              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Extensions\\SessionExtensions.cs",
-              "RelativeToolTip": "TachLayout\\Extensions\\SessionExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T09:14:45.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ShoppingCartController.cs",
-              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Controllers\\ShoppingCartController.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Controllers\\ShoppingCartController.cs",
-              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Controllers\\ShoppingCartController.cs",
-              "RelativeToolTip": "TachLayout\\Controllers\\ShoppingCartController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T08:19:09.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "TachLayout\\Views\\Product\\Index.cshtml",
-              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "TachLayout\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAE8AAAB4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-14T08:14:45.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Product\\Details.cshtml",
-              "RelativeDocumentMoniker": "TachLayout\\Views\\Product\\Details.cshtml",
-              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Product\\Details.cshtml",
-              "RelativeToolTip": "TachLayout\\Views\\Product\\Details.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAD8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-14T08:14:44.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "TachLayout\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "TachLayout\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowCYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T08:11:38.786Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1024,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -212,6 +51,109 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "TachLayout\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "TachLayout\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAywH4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T02:39:44.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "TachLayout\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "TachLayout\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T02:38:40.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TachLayout\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TachLayout\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T02:37:58.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TachLayout\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TachLayout\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwFYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T02:35:15.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TachLayout\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TachLayout\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T02:33:29.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Program.cs",
+              "RelativeDocumentMoniker": "TachLayout\\Program.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Program.cs",
+              "RelativeToolTip": "TachLayout\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T08:53:07.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbService.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Services\\DbService.cs",
+              "RelativeDocumentMoniker": "TachLayout\\Services\\DbService.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Services\\DbService.cs",
+              "RelativeToolTip": "TachLayout\\Services\\DbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T08:53:05.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\appsettings.json",
+              "RelativeDocumentMoniker": "TachLayout\\appsettings.json",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\appsettings.json",
+              "RelativeToolTip": "TachLayout\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T08:52:56.989Z"
             }
           ]
         }

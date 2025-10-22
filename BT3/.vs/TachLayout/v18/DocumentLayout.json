@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom3\\23webc_nhom7_bai3\\bt3\\tachlayout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6CA1B4-D189-45DA-A4DB-3C2D92110B60}|TachLayout\\TachLayout.csproj|solutionrelative:tachlayout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "TachLayout\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "TachLayout\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAFwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T13:38:49.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TachLayout\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TachLayout\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAEcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T13:34:53.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Program.cs",
+              "RelativeDocumentMoniker": "TachLayout\\Program.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Program.cs",
+              "RelativeToolTip": "TachLayout\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T08:53:07.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbService.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Services\\DbService.cs",
+              "RelativeDocumentMoniker": "TachLayout\\Services\\DbService.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\Services\\DbService.cs",
+              "RelativeToolTip": "TachLayout\\Services\\DbService.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAFYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T08:53:05.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\appsettings.json",
+              "RelativeDocumentMoniker": "TachLayout\\appsettings.json",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom3\\23WEBC_NHOM7_BAI3\\BT3\\TachLayout\\appsettings.json",
+              "RelativeToolTip": "TachLayout\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T08:52:56.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

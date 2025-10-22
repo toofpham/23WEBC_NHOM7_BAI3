@@ -163,7 +163,8 @@ public class AdminController : Controller
             return RedirectToAction("DonHang");
         }
 
-        ViewData["HoaDon"] = dtHeader.Rows[0];           ViewData["ChiTietHoaDon"] = dtItems;     
+        ViewData["HoaDon"] = dtHeader.Rows[0];           
+        ViewData["ChiTietHoaDon"] = dtItems;     
         return View("~/Areas/Admin/Views/Admin/ChiTietDonHang.cshtml");
     }
 
